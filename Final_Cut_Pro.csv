@@ -1,7 +1,7 @@
 Release Order (oldest→newest),Final Cut Pro Version,App External ID,App Item ID,Notes / Source
 1,10.0.0,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 2,10.0.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-3,10.0.2,4893955.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 4893955 Final Cut Pro' as of 2026-01-31).
+3,10.0.2,4893955,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 4893955 Final Cut Pro' as of 2026-01-31).
 4,10.0.3,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 5,10.0.4,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 6,10.0.5,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
@@ -10,56 +10,56 @@ Release Order (oldest→newest),Final Cut Pro Version,App External ID,App Item I
 9,10.0.8,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 10,10.0.9,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 11,10.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-12,10.1.1,299842652.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 299842652 Final Cut Pro' as of 2026-01-31).
+12,10.1.1,299842652,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 299842652 Final Cut Pro' as of 2026-01-31).
 13,10.1.2,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 14,10.1.3,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 15,10.1.4,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 16,10.2,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 17,10.2.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-18,10.2.2,812968461.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 812968461 Final Cut Pro' as of 2026-01-31).
-19,10.2.3,815823966.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 815823966 Final Cut Pro' as of 2026-01-31).
+18,10.2.2,812968461,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 812968461 Final Cut Pro' as of 2026-01-31).
+19,10.2.3,815823966,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 815823966 Final Cut Pro' as of 2026-01-31).
 20,10.3,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 21,10.3.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 22,10.3.2,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 23,10.3.3,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-24,10.3.4,822103330.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 822103330 Final Cut Pro' as of 2026-01-31).
+24,10.3.4,822103330,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 822103330 Final Cut Pro' as of 2026-01-31).
 25,10.4,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 26,10.4.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-27,10.4.2,826808281.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 826808281 Final Cut Pro' as of 2026-01-31).
+27,10.4.2,826808281,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 826808281 Final Cut Pro' as of 2026-01-31).
 28,10.4.3,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-29,10.4.4,828640430.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 828640430 Final Cut Pro' as of 2026-01-31).
-30,10.4.5,829927971.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 829927971 Final Cut Pro' as of 2026-01-31).
-31,10.4.6,830604740.0,424389933,Crash report shows Version 10.4.6 and App External ID 830604740 (MacMagazine forum post). https://forum.macmagazine.com.br/topic/177261-finalcut-x-encerrando-no-catalina/
+29,10.4.4,828640430,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 828640430 Final Cut Pro' as of 2026-01-31).
+30,10.4.5,829927971,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 829927971 Final Cut Pro' as of 2026-01-31).
+31,10.4.6,830604740,424389933,Crash report shows Version 10.4.6 and App External ID 830604740 (MacMagazine forum post). https://forum.macmagazine.com.br/topic/177261-finalcut-x-encerrando-no-catalina/
 32,10.4.7,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-33,10.4.8,833677189.0,424389933,Crash report shows Version 10.4.8 and App External ID 833677189 (Apple Support Community thread 252129568). https://discussions.apple.com/thread/252129568
+33,10.4.8,833677189,424389933,Crash report shows Version 10.4.8 and App External ID 833677189 (Apple Support Community thread 252129568). https://discussions.apple.com/thread/252129568
 34,10.4.9,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-35,10.4.10,837625711.0,424389933,Crash report shows Version 10.4.10 and App External ID 837625711 (Apple Support Community thread 253928747). https://discussions.apple.com/thread/253928747
+35,10.4.10,837625711,424389933,Crash report shows Version 10.4.10 and App External ID 837625711 (Apple Support Community thread 253928747). https://discussions.apple.com/thread/253928747
 36,10.5,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-37,10.5.1,839437266.0,424389933,Crash report shows Version 10.5.1 and App External ID 839437266 (Apple Support Community thread 252243034). https://discussions.apple.com/thread/252243034?page=2
-38,10.5.2,840377123.0,424389933,Crash report shows Version 10.5.2 and App External ID 840377123 (Apple Support Community DE thread 252661174). https://communities.apple.com/de/thread/252661174
-39,10.5.3,842271101.0,424389933,Crash report shows Version 10.5.3 and App External ID 842271101 (Apple Support Community thread 251672281). https://discussions.apple.com/thread/251672281
-40,10.5.4,842932377.0,424389933,Crash report shows Version 10.5.4 and App External ID 842932377 (Apple Support Community thread 253295796). https://discussions.apple.com/thread/253295796
+37,10.5.1,839437266,424389933,Crash report shows Version 10.5.1 and App External ID 839437266 (Apple Support Community thread 252243034). https://discussions.apple.com/thread/252243034?page=2
+38,10.5.2,840377123,424389933,Crash report shows Version 10.5.2 and App External ID 840377123 (Apple Support Community DE thread 252661174). https://communities.apple.com/de/thread/252661174
+39,10.5.3,842271101,424389933,Crash report shows Version 10.5.3 and App External ID 842271101 (Apple Support Community thread 251672281). https://discussions.apple.com/thread/251672281
+40,10.5.4,842932377,424389933,Crash report shows Version 10.5.4 and App External ID 842932377 (Apple Support Community thread 253295796). https://discussions.apple.com/thread/253295796
 41,10.6.2,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 42,10.6.3,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-43,10.6.4,851212100.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 851212100 Final Cut Pro' as of 2026-01-31).
-44,10.6.5,852712461.0,424389933,Crash report shows Version 10.6.5 and App External ID 852712461 (Reddit r/fcpx post). https://www.reddit.com/r/fcpx/comments/11m5jbf/final_cut_pro_crash_when_file_library_is_open/
+43,10.6.4,851212100,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 851212100 Final Cut Pro' as of 2026-01-31).
+44,10.6.5,852712461,424389933,Crash report shows Version 10.6.5 and App External ID 852712461 (Reddit r/fcpx post). https://www.reddit.com/r/fcpx/comments/11m5jbf/final_cut_pro_crash_when_file_library_is_open/
 45,10.6.6,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-46,10.6.7,858081843.0,424389933,Crash report shows Version 10.6.7 and App External ID 858081843 (Apple Support Community thread 255424613). https://discussions.apple.com/thread/255424613
-47,10.6.8,858759812.0,424389933,Crash report shows Version 10.6.8 and App External ID 858759812 (GitHub issue). https://github.com/CommandPost/FCPCafe/issues/238
+46,10.6.7,858081843,424389933,Crash report shows Version 10.6.7 and App External ID 858081843 (Apple Support Community thread 255424613). https://discussions.apple.com/thread/255424613
+47,10.6.8,858759812,424389933,Crash report shows Version 10.6.8 and App External ID 858759812 (GitHub issue). https://github.com/CommandPost/FCPCafe/issues/238
 48,10.6.9,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-49,10.6.10,860357778.0,424389933,Crash report shows Version 10.6.10 and App External ID 860357778 (Apple Support Community thread 255292102). https://discussions.apple.com/thread/255292102
-50,10.7,861461506.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861461506 Final Cut Pro' as of 2026-01-31).
-51,10.7.1,861999800.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861999800 Final Cut Pro' as of 2026-01-31).
+49,10.6.10,860357778,424389933,Crash report shows Version 10.6.10 and App External ID 860357778 (Apple Support Community thread 255292102). https://discussions.apple.com/thread/255292102
+50,10.7,861461506,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861461506 Final Cut Pro' as of 2026-01-31).
+51,10.7.1,861999800,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861999800 Final Cut Pro' as of 2026-01-31).
 52,10.8,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-53,10.8.1,867747287.0,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 867747287 Final Cut Pro' as of 2026-01-31).
-54,11.0,869630074.0,424389933,Seed App External ID provided by API - Version verified by API query
-55,11.0,868934312.0,424389933,Seed App External ID provided by API - Version verified by API query
-56,11.0,870244110.0,424389933,Seed App External ID provided by API - Version verified by API query
-57,11.0.1,871732983.0,424389933,Seed App External ID provided by API - Version verified by API query
-58,11.0.1,872058532.0,424389933,Seed App External ID provided by API - Version verified by API query
-59,11.1,872452762.0,424389933,Seed App External ID provided by API - Version verified by API query
-60,11.1,873376670.0,424389933,Seed App External ID provided by API - Version verified by API query
-61,11.1.1,874753139.0,424389933,Seed App External ID provided by API - Version verified by API query
-62,11.2,877853662.0,424389933,Seed App External ID provided by API - Version verified by API query
-63,12.0,878609324.0,424389933,Seed App External ID provided by API - Version verified by API query
-64,12.0,881360665.0,424389933,Seed App External ID provided by API - Version verified by API query
+53,10.8.1,867747287,424389933,No public web source located that explicitly contains this App External ID (searched for 'App External ID 867747287 Final Cut Pro' as of 2026-01-31).
+54,11.0,869630074,424389933,Seed App External ID provided by API - Version verified by API query
+55,11.0,868934312,424389933,Seed App External ID provided by API - Version verified by API query
+56,11.0,870244110,424389933,Seed App External ID provided by API - Version verified by API query
+57,11.0.1,871732983,424389933,Seed App External ID provided by API - Version verified by API query
+58,11.0.1,872058532,424389933,Seed App External ID provided by API - Version verified by API query
+59,11.1,872452762,424389933,Seed App External ID provided by API - Version verified by API query
+60,11.1,873376670,424389933,Seed App External ID provided by API - Version verified by API query
+61,11.1.1,874753139,424389933,Seed App External ID provided by API - Version verified by API query
+62,11.2,877853662,424389933,Seed App External ID provided by API - Version verified by API query
+63,12.0,878609324,424389933,Seed App External ID provided by API - Version verified by API query
+64,12.0,881360665,424389933,Seed App External ID provided by API - Version verified by API query
