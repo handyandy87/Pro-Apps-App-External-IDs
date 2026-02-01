@@ -48,7 +48,7 @@ open -a "Compressor"
 ### 2) Find the app’s PID
 *Replace "Compressor" with your app name*
 ```bash
-open -a "Compressor"
+pgrep -x "Compressor"
 ```
 > Example terminal output:
 ```bash
