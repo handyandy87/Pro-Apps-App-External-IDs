@@ -22,17 +22,16 @@ Once you've identified the app version's App External ID you're looking for, you
 **MAS 1.9.0 Patched:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher/releases/tag/MAS190-patched
 
 # How to contribute your App External ID
-This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to generate a crash report for the running app and copy the values directly from the crash report popup.
-
-When the crash report dialog appears, you’ll see the fields you need in this exact order:
-
-1. **Version**
-2. **App Item ID**
-3. **App External ID**
+This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.
+You can obtain these in a few different ways:
+1. Generate a crash report for the running app and copy the values directly from the crash report popup.
+2. Alternatively, you can try the **masreceipt-extid-finder** script included in this repo to have terminal print the information for you -- I've not tested much beyond my own machine so success may vary.
+3. Possibly other methods that I'm not aware of -- let me know!
 
 Please submit those three values exactly as shown (plus the app name) by creating a new issue.
 
-## How to find your **App External ID** (by forcing a crash report)
+## Option 1: How to find your **App External ID** (by forcing a crash report)
+
 
 These steps intentionally generate a crash report for a running Mac App Store app so you can read its **App External ID** from the report dialog.
 
@@ -83,5 +82,67 @@ Build Info: Compressor-40800047016000000~4 (20A104)
 App Item ID: 424390742
 App External ID: 858081833
 ```
+
+## Option 2: How to find your **App External ID** (by using masreceipt-extid-finder)
+
+I've cobbled together a QND script to retrieve the App External ID by parsing the values found in the application's associated MASReceipt.
+
+This is useful if you're trying to obtain the App External ID information on an application package that wasn't installed on the current system from the Mac App Store (e.g., backup copy saved on an external hard drive)
+
+When you run this script, terminal will print:
+```text
+- **bundle_id** — the app’s bundle identifier (example: `com.apple.Compressor`)
+- **application_version** — the app’s version number (example: `4.6.5`)
+- **app_item_id** — the Mac App Store App Item ID (example:  `424390742`
+- **app_external_id** — the Mac App Store External Item ID (example:  `858081833`)
+```
+
+### 1) Download the script from the releases section of this repo
+  https://github.com/handyandy87/Pro-Apps-App-External-IDs/releases
+
+
+### 2) Open Terminal
+Go > Utilities > Terminal
+-or-
+Spotlight Serach for Terminal
+
+### 3) Run the script using either of the following methods:
+
+> Note: The examples that follow use Compressor.app and assume the application is found in your Applications folder. If the application is stored in another folder, change the path in the example accordingly and make sure you retain the quotes.
+
+  ### Method 1) Run it against the .app itself (e.g. Compressor.app)
+  If the script is in ~/Downloads:
+  ```bash
+  bash ~/Downloads/masreceipt-extid-finder.sh "/Applications/Compressor.app"
+  ```
+  If you saved the script somewhere else:
+  ```bash
+  bash /path/to/masreceipt-extid-finder.sh "/Applications/Compressor.app"
+  ```
+  ### Method 2) Run it against the receipt file directly
+  If the script is in ~/Downloads
+  ```bash
+  bash ~/Downloads/masreceipt-extid-finder.sh "/Applications/Compressor.app/Contents/_MASReceipt/receipt"
+  ```
+  If you saved the script somewhere else:
+  ```bash
+  bash /path/to/masreceipt-extid-finder.sh "/Applications/Compressor.app/Contents/_MASReceipt/receipt"
+  ```
+
+### 4) Enter to run
+
+Example output:
+```code
+Bundle_id: com.apple.Compressor
+application_version: 4.6.5
+app_item_id: 424390742
+app_external_id: 858081833
+```
+
+
+
+
+
+
 
 
