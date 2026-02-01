@@ -1,0 +1,43 @@
+Release Order (oldest→newest),MainStage Version,App External ID,App Item ID,Notes / Source
+1,3,15039902,634159523,Seed App External ID provided by API - Version verified by API query
+2,3.0.1,15969185,634159523,Seed App External ID provided by API - Version verified by API query
+3,3.0.2,86112664,634159523,Seed App External ID provided by API - Version verified by API query
+4,3.0.3,284242851,634159523,Seed App External ID provided by API - Version verified by API query
+5,3.0.4,580302631,634159523,Seed App External ID provided by API - Version verified by API query
+6,3.1,795992674,634159523,Seed App External ID provided by API - Version verified by API query
+7,3.1.1,811655123,634159523,Seed App External ID provided by API - Version verified by API query
+8,3.2,812006152,634159523,Seed App External ID provided by API - Version verified by API query
+9,3.2.1,813230526,634159523,Seed App External ID provided by API - Version verified by API query
+10,3.2.2,813552370,634159523,Seed App External ID provided by API - Version verified by API query
+11,3.0.1,814541391,634159523,Crash report shows MainStage and App External ID 814541391 (Apple Support Community thread 7436119). https://discussions.apple.com/thread/7436119
+12,3.0.2,816296074,634159523,Crash report includes App External ID 816296074 for MainStage (Korg Forums post). https://www.korgforums.com/forum/phpBB3/viewtopic.php?p=707285
+13,3.0.3,817508804,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 817508804 MainStage' as of 2026-01-31).
+14,3.0.4,821621337,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 821621337 MainStage' as of 2026-01-31).
+15,3.1,822630577,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 822630577 MainStage' as of 2026-01-31).
+16,3.1.1,823246637,634159523,Crash report includes App External ID 823246637 for MainStage (Korg Forums post). https://www.korgforums.com/forum/phpBB3/viewtopic.php?p=717479
+17,3.2,823564233,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 823564233 MainStage' as of 2026-01-31).
+18,3.2.1,828388774,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 828388774 MainStage' as of 2026-01-31).
+19,3.2.2,828482204,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 828482204 MainStage' as of 2026-01-31).
+20,3.2.3,828823656,634159523,Crash report includes App External ID 828823656 for MainStage (Apple Support Community thread 8654658). https://discussions.apple.com/thread/8654658
+21,3.2.4,829311980,634159523,Crash report includes App External ID 829311980 for MainStage (Apple Support Community thread 8654658). https://discussions.apple.com/thread/8654658
+22,3.3,830336538,634159523,Crash report includes App External ID 830336538 for MainStage (Surge Synthesizer GitHub issue). https://github.com/surge-synthesizer/surge/issues/864
+23,3.3.1,832148253,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 832148253 MainStage' as of 2026-01-31).
+24,3.3.2,834637212,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 834637212 MainStage' as of 2026-01-31).
+25,3.4,837032464,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 837032464 MainStage' as of 2026-01-31).
+26,3.4.1,838457305,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 838457305 MainStage' as of 2026-01-31).
+27,3.4.2,838507763,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 838507763 MainStage' as of 2026-01-31).
+28,3.4.3,838525112,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 838525112 MainStage' as of 2026-01-31).
+29,3.4.4,838560845,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 838560845 MainStage' as of 2026-01-31).
+30,3.5,839116620,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 839116620 MainStage' as of 2026-01-31).
+31,3.5.1,839992832,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 839992832 MainStage' as of 2026-01-31).
+32,3.5.2,841990111,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 841990111 MainStage' as of 2026-01-31).
+33,3.5.3,843578961,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 843578961 MainStage' as of 2026-01-31).
+34,3.6,847783103,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 847783103 MainStage' as of 2026-01-31).
+35,3.6.1,848940073,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 848940073 MainStage' as of 2026-01-31).
+36,3.6.2,853773023,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 853773023 MainStage' as of 2026-01-31).
+37,3.6.3,854029745,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 854029745 MainStage' as of 2026-01-31).
+38,4,858440801,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 858440801 MainStage' as of 2026-01-31).
+39,3.6.5,860975687,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 860975687 MainStage' as of 2026-01-31).
+40,4,861312988,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861312988 MainStage' as of 2026-01-31).
+41,3.7,862757050,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 862757050 MainStage' as of 2026-01-31).
+42,3.7.1,872417396,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 872417396 MainStage' as of 2026-01-31).

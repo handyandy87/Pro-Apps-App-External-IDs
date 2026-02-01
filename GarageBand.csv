@@ -1,0 +1,42 @@
+Release Order (oldest→newest),GarageBand Version,App External ID,App Item ID,Notes / Source
+1,,15985856,682658836,Seed App External ID provided by API
+2,,86112662,682658836,Seed App External ID provided by API
+3,,337342642,682658836,Seed App External ID provided by API
+4,,513162807,682658836,Seed App External ID provided by API
+5,,811655132,682658836,Seed App External ID provided by API
+6,,813573506,682658836,Seed App External ID provided by API
+7,,817004226,682658836,Seed App External ID provided by API
+8,10.1.3,817453930,682658836,Crash log (includes App Item ID & External ID): https://www.kvraudio.com/forum/viewtopic.php?t=474611
+9,,819546190,682658836,Seed App External ID provided by API
+10,,820103969,682658836,Seed App External ID provided by API
+11,10.1.6,820728589,682658836,Crash log (includes App Item ID & External ID): https://discussions.apple.com/thread/7885693
+12,,821040177,682658836,Seed App External ID provided by API
+13,,822303020,682658836,Seed App External ID provided by API
+14,,823246612,682658836,Seed App External ID provided by API
+15,,826409342,682658836,Seed App External ID provided by API
+16,,827663380,682658836,Seed App External ID provided by API
+17,10.3.2,828823975,682658836,Crash log referenced in Apple Community thread (snippet includes version + IDs; attachment may require sign-in): https://discussions.apple.com/thread/250538538
+18,10.3.3,830336527,682658836,Apple Community thread about 10.3.3 with App External ID shown in search snippet; crash report itself is an attachment requiring sign-in: https://discussions.apple.com/thread/250719326
+19,10.3.4,833082318,682658836,User report states current GarageBand version 10.3.4; crash excerpt includes App External ID 833082318: https://www.reddit.com/r/applehelp/comments/1bp2vqo/i_cant_get_garageband_to_work/
+20,,834272330,682658836,Seed App External ID provided by API
+21,10.3.5,836732248,682658836,Crash log excerpt in post (includes version + IDs): https://discussions.apple.com/thread/251617488
+22,,837032462,682658836,Seed App External ID provided by API
+23,,838179989,682658836,Seed App External ID provided by API
+24,,838318608,682658836,Seed App External ID provided by API
+25,,839050897,682658836,Seed App External ID provided by API
+26,10.4.2,839116488,682658836,Crash log (snippet includes version + IDs): https://github.com/barrykn/big-sur-micropatcher/issues/111
+27,,839992837,682658836,Seed App External ID provided by API
+28,10.4.3,840921930,682658836,Crash log excerpt (includes version + IDs): https://iplug2.discourse.group/t/mac-build-runs-on-one-computer-but-not-another/418
+29,,841990154,682658836,Seed App External ID provided by API
+30,,844948732,682658836,Seed App External ID provided by API
+31,10.4.6,845961416,682658836,Crash log excerpt (includes version + IDs): https://discussions.apple.com/thread/254734333
+32,,848328438,682658836,Seed App External ID provided by API
+33,10.4.7,853082062,682658836,Crash log excerpt (includes version + IDs): https://forums.macrumors.com/threads/garageband-and-antares-auto-tune-8-1-under-monterey.2376048/
+34,10.4.8,853773014,682658836,Crash log excerpt (includes version + IDs): https://community.native-instruments.com/discussion/17578/garageband-and-ni-sk2-61
+35,,855394524,682658836,Seed App External ID provided by API
+36,,860742469,682658836,Seed App External ID provided by API
+37,,861313004,682658836,Seed App External ID provided by API
+38,10.4.11,862757097,682658836,Crash log excerpt (includes version + IDs): https://discussions.apple.com/thread/255779181
+39,,866769328,682658836,Seed App External ID provided by API
+40,,871012635,682658836,Seed App External ID provided by API
+41,,877196065,682658836,Seed App External ID provided by API
