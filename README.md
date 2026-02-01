@@ -1,7 +1,7 @@
 # Pro-Apps-App-External-IDs
 Collection of various App External IDs for Apple Pro apps and Apple productivity apps.
 
-These are useful for downloading older verisons of an app from the Mac App Store.
+These are useful for downloading older versions of an app from the Mac App Store.
 
 Anywhere an application version is listed where the App External ID is missing means it's still needed -- please help contribute!
 
@@ -12,7 +12,7 @@ As well as some non-Pro Apps: GarageBand, iMovie, Keynote, Pages, Numbers, and P
 In this repo are csv files for each of the referenced apps. I've provided sources (when available) for where the App External ID was found.
 
 # Installing a specific version
-> Note: The method below is currently the only way to obain older versions of Final Cut Pro, Compressor and Motion from the Mac App Store on OS versions older than 15.6.*
+> Note: The method below is currently the only way to obtain older versions of Final Cut Pro, Compressor and Motion from the Mac App Store on OS versions older than 15.6.*
 
 **I've created a fork of the MAS-CLI and patched version 1.9.0's code (as it has good OS support) to accept a version argument at runtime.**
 
@@ -29,6 +29,9 @@ You can obtain these in a few different ways:
 3. Possibly other methods that I'm not aware of -- let me know!
 
 Please submit those three values exactly as shown (plus the app name) by creating a new issue.
+
+> Note: App External IDs are only present in application packages obtained from the Mac App Store. Those packages contain a MASReceipt folder with a "receipt" file that report the App External ID information to the OS. Applications obtained outside the Mac App Store will not have a receipt file and cannot be used to help identify App External IDs.
+
 
 ## Option 1: How to find your **App External ID** (by forcing a crash report)
 
@@ -72,7 +75,7 @@ After the crash report appears, look for these fields towards the very top:
 2. App Item ID
 3. App External ID
 
-> Exmaple excerpt from crash report, for Compressor 4.6.5
+> Example excerpt from crash report, for Compressor 4.6.5
 ```code
 Process: Compressor [50811]
 Path: /Applications/Compressor.app/Contents/MacOS/Compressor
@@ -104,7 +107,7 @@ When you run this script, terminal will print:
 ### 2) Open Terminal
 Go > Utilities > Terminal
 -or-
-Spotlight Serach for Terminal
+Spotlight Search for Terminal
 
 ### 3) Run the script using either of the following methods:
 
