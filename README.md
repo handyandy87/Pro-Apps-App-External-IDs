@@ -50,7 +50,7 @@ open -a "Compressor"
 ```bash
 pgrep -x "Compressor"
 ```
-> Example terminal output:
+> Example terminal output showing the app's PID:
 ```bash
 50811
 ```
