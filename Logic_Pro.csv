@@ -1,8 +1,8 @@
 Release Order (oldest→newest),Logic Pro Version,App External ID,App Item ID,Notes / Source
 1,10.0.0,15039901,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-2,,15875534,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-3,,16011852,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-4,,16404831,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+2,10.0.1,15875534,634148309,Seed App External ID provided by API - Version verified by API query
+3,10.0.2,16011852,634148309,Seed App External ID provided by API - Version verified by API query
+4,10.0.3,16404831,634148309,Seed App External ID provided by API - Version verified by API query
 5,,16567946,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 6,,73352631,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 7,,86112663,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
