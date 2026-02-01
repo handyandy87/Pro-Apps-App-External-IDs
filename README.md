@@ -93,11 +93,11 @@ I've cobbled together a QND script to retrieve the App External ID by parsing th
 This is useful if you're trying to obtain the App External ID information on an application package that wasn't installed on the current system from the Mac App Store (e.g., backup copy saved on an external hard drive)
 
 When you run this script, terminal will print:
-```text
-- **bundle_id** — the app’s bundle identifier (example: `com.apple.Compressor`)
-- **application_version** — the app’s version number (example: `4.6.5`)
-- **app_item_id** — the Mac App Store App Item ID (example:  `424390742`
-- **app_external_id** — the Mac App Store External Item ID (example:  `858081833`)
+```bash
+bundle_id    ##the app’s bundle identifier (example: `com.apple.Compressor`)
+application_version    ##the app’s version number (example: `4.6.5`)
+app_item_id    ##the Mac App Store App Item ID (example:  `424390742`
+app_external_id    ##the Mac App Store External Item ID (example:  `858081833`)
 ```
 
 ### 1) Download the script from the releases section of this repo
@@ -136,7 +136,7 @@ Spotlight Search for Terminal
 
 Example output:
 ```code
-Bundle_id: com.apple.Compressor
+bundle_id: com.apple.Compressor
 application_version: 4.6.5
 app_item_id: 424390742
 app_external_id: 858081833
