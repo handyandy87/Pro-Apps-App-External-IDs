@@ -56,7 +56,7 @@ pgrep -x "Compressor"
 ```
 
 ### 3) Force a crash report using sudo kill -3 <PID>
-*Replace <PID> with the number you found above*
+*Replace with the number you found above*
 ```bash
 sudo kill -3 <PID>
 ```
