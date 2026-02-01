@@ -12,12 +12,14 @@ As well as some non-Pro Apps: GarageBand, iMovie, Keynote, Pages, Numbers, and P
 In this repo are csv files for each of the referenced apps. I've provided sources (when available) for where the App External ID was found.
 
 # Installing a specific version
-I've created a fork of the MAS-CLI and patched version 1.9.0's code (as it has good OS support) to accept a version argument at runtime. 
+> Note: The method below is currently the only way to obain older versions of Final Cut Pro, Compressor and Motion from the Mac App Store on OS versions older than 15.6.*
+
+**I've created a fork of the MAS-CLI and patched version 1.9.0's code (as it has good OS support) to accept a version argument at runtime.**
 
 Once you've identified the app version's App External ID you're looking for, you can run this patched version of MAS to install the specific app version from Terminal.
 
 
-MAS 1.9.0 Patched: https://github.com/handyandy87/mas-cli-appExtVrsId-patcher/releases/tag/MAS190-patched
+**MAS 1.9.0 Patched:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher/releases/tag/MAS190-patched
 
 # How to contribute your App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to generate a crash report for the running app and copy the values directly from the crash report popup.
