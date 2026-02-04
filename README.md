@@ -19,7 +19,7 @@ In this repo are csv files for each of the referenced apps. I've provided source
 Once you've identified the app version's App External ID you're looking for, you can run this patched version of MAS to install the specific app version from Terminal.
 
 
-**MAS 1.9.0 Patched:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher/releases/tag/MAS190-patched
+**MAS 1.9.0 Patched:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher
 
 # How to contribute your App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.
