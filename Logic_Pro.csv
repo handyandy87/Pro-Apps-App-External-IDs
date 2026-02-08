@@ -3,15 +3,15 @@ Release Order (oldest→newest),Logic Pro Version,App External ID,App Item ID,No
 2,10.0.1,15875534,634148309,Seed App External ID provided by API - Version verified by API query
 3,10.0.2,16011852,634148309,Seed App External ID provided by API - Version verified by API query
 4,10.0.3,16404831,634148309,Seed App External ID provided by API - Version verified by API query
-5,,16567946,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-6,,73352631,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+5,10.0.3,16567946,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+6,10.0.4,73352631,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 7,,86112663,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 8,10.0.6,283213010,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-9,,337342644,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-10,,590352671,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-11,,811655126,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+9,10.0.7,337342644,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+10,10.1.0,590352671,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+11,10.1.1,811655126,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 12,10.2.0,812006144,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-13,,813569485,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+13,10.2.1,813569485,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 14,10.2.2,816296068,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://discussions.apple.com/thread/7537301
 15,10.2.3,816790022,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://discussions.apple.com/thread/7601977
 16,10.2.4,817791688,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://discussions.apple.com/thread/7816471
@@ -20,55 +20,55 @@ Release Order (oldest→newest),Logic Pro Version,App External ID,App Item ID,No
 19,,821166425,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 20,10.3.2,822780858,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://www.logicprohelp.com/forums/topic/116932-logic-x-crashes-everytime-i-quit/
 21,,823246622,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-22,,825257301,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+22,10.3.3,825257301,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 23,,825386372,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-24,,825697299,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-25,,825945185,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+24,10.4.0,825697299,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+25,10.4.1,825945185,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 26,,826582406,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-27,,828482134,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-28,,828823649,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+27,10.4.2,828482134,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+28,10.4.3,828823649,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 29,10.4.4,829681282,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 30,,830336533,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-31,,831355815,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+31,10.4.5,831355815,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 32,10.4.6,831740754,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 33,,832148246,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 34,,832759050,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-35,,832906520,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-36,,833082327,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+35,10.4.7,832906520,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+36,10.4.8,833082327,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 37,,834272154,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 38,10.5.0,835637741,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 39,10.5.1,835960408,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 40,,837306077,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 41,,838420634,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 42,10.6.0,838457300,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-43,,839116456,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+43,10.6.1,839116456,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 44,,839992829,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 45,10.6.2,841256562,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 46,10.6.3,841990097,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-47,,843578949,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-48,,844948718,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+47,10.7.0,843578949,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+48,10.7.1,844948718,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 49,10.7.2,845355374,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-50,,845961407,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+50,10.7.3,845961407,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 51,,847783090,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 52,10.7.4,848436302,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 53,,848940055,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-54,,852893773,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+54,10.7.5,852893773,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 55,10.7.6,853772389,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 56,10.7.7,854029738,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 57,10.7.8,854695497,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 58,10.7.9,857501258,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 59,,858441597,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-60,,860619119,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+60,10.8.0,860619119,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 61,10.8.1,861312964,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 62,,861999856,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 63,11.0.0,865018845,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-64,,865964375,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+64,11.0.1,865964375,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 65,,866769274,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 66,,869631222,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-67,,870346202,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-68,,870572173,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+67,11.1.0,870346202,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+68,11.1.1,870572173,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 69,11.1.2,871299242,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 70,,871617181,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 71,,874935669,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-72,,875264143,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+72,11.2.1,875264143,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 73,11.2.2,876200097,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
