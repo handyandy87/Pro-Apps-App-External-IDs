@@ -16,7 +16,7 @@ Release Order (oldest→newest),Compressor Version,App External ID,App Item ID,N
 15,4.3,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
 16,4.3.1,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
 17,4.4,824369277,424390742,User states Compressor 4.4; crash report attachment not publicly accessible; App External ID 824369277 from seed. Apple Community (DE) thread 251943622. https://communities.apple.com/de/thread/251943622
-18,4.4.1,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
+18,4.4.1,826365369,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
 19,4.4.2,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
 20,4.4.3,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
 21,4.4.4,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
@@ -40,10 +40,8 @@ Release Order (oldest→newest),Compressor Version,App External ID,App Item ID,N
 39,4.8,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
 40,4.9,868934276,424390742,Seed App External ID provided by API - Version verified by API query
 41,4.9,869662410,424390742,Seed App External ID provided by API - Version verified by API query
-42,4.9,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
-43,4.10,873128472,424390742,Seed App External ID provided by API - Version verified by API query
-44,4.10,873376740,424390742,Seed App External ID provided by API - Version verified by API query
-45,4.10,,424390742,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102745
+43,4.1,873128472,424390742,Seed App External ID provided by API - Version verified by API query
+44,4.1,873376740,424390742,Seed App External ID provided by API - Version verified by API query
 46,4.10.1,874753582,424390742,Seed App External ID provided by API - Version verified by API query
 47,4.11,877851588,424390742,Seed App External ID provided by API - Version verified by API query
 48,4.11,878206483,424390742,Seed App External ID provided by API - Version verified by API query
