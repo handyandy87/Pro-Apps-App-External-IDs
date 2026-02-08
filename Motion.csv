@@ -1,5 +1,5 @@
 Release Order (oldest→newest),Motion Version,App External ID,App Item ID,Notes / Source
-1,5,3667172,434290957,Seed App External ID provided by API - Version verified by API query
+1,5.0,3667172,434290957,Seed App External ID provided by API - Version verified by API query
 2,5.0.1,4139667,434290957,Seed App External ID provided by API - Version verified by API query
 3,5.0.2,5857582,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 4,5.0.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
@@ -39,12 +39,9 @@ Release Order (oldest→newest),Motion Version,App External ID,App Item ID,Notes
 38,5.8,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 39,5.9,868934304,434290957,Seed App External ID provided by API - Version verified by API query
 40,5.9,869574425,434290957,Seed App External ID provided by API - Version verified by API query
-41,5.9,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-42,5.1,873001765,434290957,Seed App External ID provided by API - Version verified by API query
-43,5.1,873376651,434290957,Seed App External ID provided by API - Version verified by API query
-44,5.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-45,5.11,877817839,434290957,Seed App External ID provided by API - Version verified by API query
-46,5.11,878206477,434290957,Seed App External ID provided by API - Version verified by API query
-47,6,878609363,434290957,Seed App External ID provided by API - Version verified by API query
-48,6,881360617,434290957,Seed App External ID provided by API - Version verified by API query
-49,6,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+41,5.1,873001765,434290957,Seed App External ID provided by API - Version verified by API query
+42,5.1,873376651,434290957,Seed App External ID provided by API - Version verified by API query
+43,5.11,877817839,434290957,Seed App External ID provided by API - Version verified by API query
+44,5.11,878206477,434290957,Seed App External ID provided by API - Version verified by API query
+45,6.0,878609363,434290957,Seed App External ID provided by API - Version verified by API query
+46,6.0,881360617,434290957,Seed App External ID provided by API - Version verified by API query
