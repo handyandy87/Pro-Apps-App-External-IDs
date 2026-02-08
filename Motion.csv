@@ -1,26 +1,26 @@
 Release Order (oldest→newest),Motion Version,App External ID,App Item ID,Notes / Source
-1,5.0,3667172,434290957,Seed App External ID provided by API - Version verified by API query
-2,5.0.1,4139667,434290957,Seed App External ID provided by API - Version verified by API query
-3,5.0.2,5857582,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+1,5.0,3667172,434290957,User Provided
+2,5.0.1,4139667,434290957,User Provided
+3,5.0.2,5857582,434290957,User Provided
 4,5.0.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 5,5.0.4,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-6,5.0.5,10982841,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-7,5.0.6,12596437,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-8,5.0.7,14682850,434290957,Seed App External ID provided by API - Version verified by API query
-9,5.1,219952701,434290957,Seed App External ID provided by API - Version verified by API query
+6,5.0.5,10982841,434290957,User Provided
+7,5.0.6,12596437,434290957,User Provided
+8,5.0.7,14682850,434290957,User Provided
+9,5.1,219952701,434290957,User Provided
 10,5.1.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-11,5.1.2,664112925,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-12,5.2,812093572,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+11,5.1.2,664112925,434290957,User Provided
+12,5.2,812093572,434290957,User Provided
 13,5.2.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-14,5.2.2,813073167,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+14,5.2.2,813073167,434290957,User Provided
 15,5.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 16,5.3.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 17,5.3.2,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-18,5.4,824369279,434290957,Seed App External ID provided by API - Version verified by API query
-19,5.4.2,828792104,434290957,Seed data provided by user | Version from user crash report; source: https://discussions.apple.com/thread/250018720
+18,5.4,824369279,434290957,User Provided
+19,5.4.2,828792104,434290957,User Provided
 20,5.4.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 21,5.4.4,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-22,5.4.5,833694461,434290957,Seed data provided by user | Version from user crash report; source: https://discussions.apple.com/thread/251059120
+22,5.4.5,833694461,434290957,User Provided
 23,5.4.6,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 24,5.4.7,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 25,5.5,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
@@ -29,7 +29,7 @@ Release Order (oldest→newest),Motion Version,App External ID,App Item ID,Notes
 28,5.5.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 29,5.6,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 30,5.6.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-31,5.6.2,851212304,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+31,5.6.2,851212304,434290957,User Provided
 32,5.6.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 33,5.6.4,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 34,5.6.5,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
