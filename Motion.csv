@@ -18,25 +18,25 @@ Release Order (oldest→newest),Motion Version,App External ID,App Item ID,Notes
 17,5.3.2,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 18,5.4,824369279,434290957,User Provided
 19,5.4.2,828792104,434290957,User Provided
-20,5.4.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-21,5.4.4,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+20,5.4.3,830431815,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+21,5.4.4,832315090,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
 22,5.4.5,833694461,434290957,User Provided
-23,5.4.6,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-24,5.4.7,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-25,5.5,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-26,5.5.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-27,5.5.2,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-28,5.5.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-29,5.6,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-30,5.6.1,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+23,5.4.6,834608029,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+24,5.4.7,837625726,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+25,5.5,838092719,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+26,5.5.1,840289973,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+27,5.5.2,841241681,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+28,5.5.3,842933665,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+29,5.6,843363199,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+30,5.6.1,847601191,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
 31,5.6.2,851212304,434290957,User Provided
-32,5.6.3,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-33,5.6.4,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-34,5.6.5,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-35,5.6.6,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-36,5.6.7,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-37,5.7,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
-38,5.8,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
+32,5.6.3,852333300,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+33,5.6.4,856285460,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+34,5.6.5,858081811,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+35,5.6.6,859165296,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+36,5.6.7,860357860,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+37,5.7,860596433,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
+38,5.8,861999886,434290957,Fetched via amp-api-edge.apps.apple.com versionHistory
 39,5.9,868934304,434290957,Seed App External ID provided by API - Version verified by API query
 40,5.9,869574425,434290957,Seed App External ID provided by API - Version verified by API query
 41,5.1,873001765,434290957,Seed App External ID provided by API - Version verified by API query

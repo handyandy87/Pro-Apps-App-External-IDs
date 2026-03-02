@@ -9,7 +9,7 @@ Release Order (oldest→newest),Final Cut Pro Version,App External ID,App Item I
 8,10.0.7,12596438,424389933,User provided
 9,10.0.8,14685451,424389933,User provided
 10,10.0.9,15900113,424389933,User provided
-11,10.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+11,10.1,223682791,424389933,Crash report (Apple Community thread 5730370)
 12,10.1.1,299842652,424389933,User provided
 13,10.1.2,593434168,424389933,User provided
 14,10.1.3,668174963,424389933,User provided
@@ -39,20 +39,20 @@ Release Order (oldest→newest),Final Cut Pro Version,App External ID,App Item I
 38,10.5.2,840377123,424389933,Crash report shows Version 10.5.2 and App External ID 840377123 (Apple Support Community DE thread 252661174). https://communities.apple.com/de/thread/252661174
 39,10.5.3,842271101,424389933,Crash report shows Version 10.5.3 and App External ID 842271101 (Apple Support Community thread 251672281). https://discussions.apple.com/thread/251672281
 40,10.5.4,842932377,424389933,Crash report shows Version 10.5.4 and App External ID 842932377 (Apple Support Community thread 253295796). https://discussions.apple.com/thread/253295796
-41,10.6,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+41,10.6,843363197,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
 42,10.6.1,844953914,424389933,User provided
-43,10.6.2,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+43,10.6.2,847601109,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
 44,10.6.3,849059388,424389933,User provided
 45,10.6.4,851212100,424389933,User provided
 46,10.6.5,852712461,424389933,Crash report shows Version 10.6.5 and App External ID 852712461 (Reddit r/fcpx post). https://www.reddit.com/r/fcpx/comments/11m5jbf/final_cut_pro_crash_when_file_library_is_open/
 47,10.6.6,856984246,424389933,User provided
 48,10.6.7,858081843,424389933,Crash report shows Version 10.6.7 and App External ID 858081843 (Apple Support Community thread 255424613). https://discussions.apple.com/thread/255424613
 49,10.6.8,858759812,424389933,Crash report shows Version 10.6.8 and App External ID 858759812 (GitHub issue). https://github.com/CommandPost/FCPCafe/issues/238
-50,10.6.9,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+50,10.6.9,859162329,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
 51,10.6.10,860357778,424389933,Crash report shows Version 10.6.10 and App External ID 860357778 (Apple Support Community thread 255292102). https://discussions.apple.com/thread/255292102
 52,10.7,861461506,424389933,User provided
 53,10.7.1,861999800,424389933,User provided
-54,10.8,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+54,10.8,864231047,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
 55,10.8.1,867747287,424389933,User provided
 56,11,869630074,424389933,Seed App External ID provided by API - Version verified by API query
 57,11,868934312,424389933,Seed App External ID provided by API - Version verified by API query
