@@ -1,81 +1,81 @@
-Release Order (oldest→newest),iMovie Version,App External ID,App Item ID,Notes / Source
-1,,3233011,408981434,Seed App External ID list provided by user (version unknown)
-2,,3352806,408981434,Seed App External ID list provided by user (version unknown)
-3,,3879328,408981434,Seed App External ID list provided by user (version unknown)
-4,,3919357,408981434,Seed App External ID list provided by user (version unknown)
-5,,7793449,408981434,Seed App External ID list provided by user (version unknown)
-6,,8610479,408981434,Seed App External ID list provided by user (version unknown)
-7,,9556074,408981434,Seed App External ID list provided by user (version unknown)
-8,9.0.8,10440451,408981434,Version from user crash report; source: https://discussions.apple.com/thread/5024060?page=1
-9,,15340117,408981434,Seed App External ID list provided by user (version unknown)
-10,,84014429,408981434,Seed App External ID list provided by user (version unknown)
-11,,141822634,408981434,Seed App External ID list provided by user (version unknown)
-12,,324462642,408981434,Seed App External ID list provided by user (version unknown)
-13,,521012678,408981434,Seed App External ID list provided by user (version unknown)
-14,,610102658,408981434,Seed App External ID list provided by user (version unknown)
-15,,668802749,408981434,Seed App External ID list provided by user (version unknown)
-16,,715442672,408981434,Seed App External ID list provided by user (version unknown)
-17,10.0.7,811732053,408981434,Version from user crash report; source: https://www.reddit.com/r/mac/comments/2zsxne/imovie_wont_open_after_10102_update/
-18,,812155906,408981434,Seed App External ID list provided by user (version unknown)
-19,,812661454,408981434,Seed App External ID list provided by user (version unknown)
-20,,813497458,408981434,Seed App External ID list provided by user (version unknown)
-21,,815650084,408981434,Seed App External ID list provided by user (version unknown)
-22,,816915942,408981434,Seed App External ID list provided by user (version unknown)
-23,,818418356,408981434,Seed App External ID list provided by user (version unknown)
-24,,819785206,408981434,Seed App External ID list provided by user (version unknown)
-25,,821109039,408981434,Seed App External ID list provided by user (version unknown)
-26,,822070144,408981434,Seed App External ID list provided by user (version unknown)
-27,,822103327,408981434,Seed App External ID list provided by user (version unknown)
-28,,823314298,408981434,Seed App External ID list provided by user (version unknown)
-29,10.1.7,823649006,408981434,Version from user crash report; source: https://discussions.apple.com/thread/8111108
-30,,824055808,408981434,Seed App External ID list provided by user (version unknown)
-31,10.1.8,824158953,408981434,Version from user crash report; source: https://discussions.apple.com/thread/8220650
-32,,826113444,408981434,Seed App External ID list provided by user (version unknown)
-33,,826237711,408981434,Seed App External ID list provided by user (version unknown)
-34,,828480463,408981434,Seed App External ID list provided by user (version unknown)
-35,,828804856,408981434,Seed App External ID list provided by user (version unknown)
-36,,830462751,408981434,Seed App External ID list provided by user (version unknown)
-37,10.1.11,830553401,408981434,Version from user crash report; source: https://superuser.com/questions/1425118/imovie-crashing-for-a-particular-project
-38,,831338733,408981434,Seed App External ID list provided by user (version unknown)
-39,10.1.12,831420740,408981434,Version from user crash report; source: https://discussions.apple.com/thread/251438761
-40,,832315220,408981434,Seed App External ID list provided by user (version unknown)
-41,10.1.13,832890727,408981434,Version from user crash report; source: https://github.com/dosdude1/macos-catalina-patcher/issues/2
-42,,833483666,408981434,Seed App External ID list provided by user (version unknown)
-43,10.1.14,833677695,408981434,Version from user crash report; source: https://discussions.apple.com/thread/250729946
-44,,836654954,408981434,Seed App External ID list provided by user (version unknown)
-45,,837323028,408981434,Seed App External ID list provided by user (version unknown)
-46,10.1.16,837625718,408981434,Version from user crash report; source: https://discussions.apple.com/thread/251848074
-47,,838092600,408981434,Seed App External ID list provided by user (version unknown)
-48,,838149856,408981434,Seed App External ID list provided by user (version unknown)
-49,,838283142,408981434,Seed App External ID list provided by user (version unknown)
-50,,839051214,408981434,Seed App External ID list provided by user (version unknown)
-51,,839547504,408981434,Seed App External ID list provided by user (version unknown)
-52,,840061676,408981434,Seed App External ID list provided by user (version unknown)
-53,10.2.3,840377116,408981434,Version from user crash report; source: https://communities.apple.com/es/thread/252553656?page=2
-54,,841240386,408981434,Seed App External ID list provided by user (version unknown)
-55,,842554095,408981434,Seed App External ID list provided by user (version unknown)
-56,10.2.5,842933683,408981434,Version from user crash report; source: https://github.com/dosdude1/macos-catalina-patcher/issues/172
-57,,843363174,408981434,Seed App External ID list provided by user (version unknown)
-58,,844431982,408981434,Seed App External ID list provided by user (version unknown)
-59,,844953929,408981434,Seed App External ID list provided by user (version unknown)
-60,,847434621,408981434,Seed App External ID list provided by user (version unknown)
-61,,847850317,408981434,Seed App External ID list provided by user (version unknown)
-62,,849059674,408981434,Seed App External ID list provided by user (version unknown)
-63,,851212169,408981434,Seed App External ID list provided by user (version unknown)
-64,,852332964,408981434,Seed App External ID list provided by user (version unknown)
-65,10.3.5,852712455,408981434,Version from user crash report; source: https://www.reddit.com/r/hackintosh/comments/137zvin/opencore_v065_imovie_new_file_making_occurs/
-66,,856285740,408981434,Seed App External ID list provided by user (version unknown)
-67,,856978950,408981434,Seed App External ID list provided by user (version unknown)
-68,,858081821,408981434,Seed App External ID list provided by user (version unknown)
-69,,858759843,408981434,Seed App External ID list provided by user (version unknown)
-70,,859162440,408981434,Seed App External ID list provided by user (version unknown)
-71,,859794331,408981434,Seed App External ID list provided by user (version unknown)
-72,,860357764,408981434,Seed App External ID list provided by user (version unknown)
-73,,860618838,408981434,Seed App External ID list provided by user (version unknown)
-74,,861461512,408981434,Seed App External ID list provided by user (version unknown)
-75,,864230779,408981434,Seed App External ID list provided by user (version unknown)
-76,,864958063,408981434,Seed App External ID list provided by user (version unknown)
-77,,865051576,408981434,Seed App External ID list provided by user (version unknown)
-78,,867747307,408981434,Seed App External ID list provided by user (version unknown)
-79,,868934249,408981434,Seed App External ID list provided by user (version unknown)
-80,,869656972,408981434,Seed App External ID list provided by user (version unknown)
+Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App Item ID,Notes / Source
+1,,3233011,,408981434,Seed App External ID list provided by user (version unknown)
+2,,3352806,,408981434,Seed App External ID list provided by user (version unknown)
+3,,3879328,,408981434,Seed App External ID list provided by user (version unknown)
+4,,3919357,,408981434,Seed App External ID list provided by user (version unknown)
+5,,7793449,,408981434,Seed App External ID list provided by user (version unknown)
+6,,8610479,,408981434,Seed App External ID list provided by user (version unknown)
+7,,9556074,,408981434,Seed App External ID list provided by user (version unknown)
+8,9.0.8,10440451,,408981434,Version from user crash report; source: https://discussions.apple.com/thread/5024060?page=1
+9,,15340117,,408981434,Seed App External ID list provided by user (version unknown)
+10,,84014429,,408981434,Seed App External ID list provided by user (version unknown)
+11,,141822634,,408981434,Seed App External ID list provided by user (version unknown)
+12,,324462642,,408981434,Seed App External ID list provided by user (version unknown)
+13,,521012678,,408981434,Seed App External ID list provided by user (version unknown)
+14,,610102658,,408981434,Seed App External ID list provided by user (version unknown)
+15,,668802749,,408981434,Seed App External ID list provided by user (version unknown)
+16,,715442672,,408981434,Seed App External ID list provided by user (version unknown)
+17,10.0.7,811732053,,408981434,Version from user crash report; source: https://www.reddit.com/r/mac/comments/2zsxne/imovie_wont_open_after_10102_update/
+18,,812155906,,408981434,Seed App External ID list provided by user (version unknown)
+19,,812661454,,408981434,Seed App External ID list provided by user (version unknown)
+20,,813497458,,408981434,Seed App External ID list provided by user (version unknown)
+21,,815650084,,408981434,Seed App External ID list provided by user (version unknown)
+22,,816915942,,408981434,Seed App External ID list provided by user (version unknown)
+23,,818418356,,408981434,Seed App External ID list provided by user (version unknown)
+24,,819785206,,408981434,Seed App External ID list provided by user (version unknown)
+25,,821109039,,408981434,Seed App External ID list provided by user (version unknown)
+26,,822070144,,408981434,Seed App External ID list provided by user (version unknown)
+27,,822103327,,408981434,Seed App External ID list provided by user (version unknown)
+28,,823314298,,408981434,Seed App External ID list provided by user (version unknown)
+29,10.1.7,823649006,,408981434,Version from user crash report; source: https://discussions.apple.com/thread/8111108
+30,,824055808,,408981434,Seed App External ID list provided by user (version unknown)
+31,10.1.8,824158953,,408981434,Version from user crash report; source: https://discussions.apple.com/thread/8220650
+32,,826113444,,408981434,Seed App External ID list provided by user (version unknown)
+33,,826237711,,408981434,Seed App External ID list provided by user (version unknown)
+34,,828480463,,408981434,Seed App External ID list provided by user (version unknown)
+35,,828804856,,408981434,Seed App External ID list provided by user (version unknown)
+36,,830462751,,408981434,Seed App External ID list provided by user (version unknown)
+37,10.1.11,830553401,,408981434,Version from user crash report; source: https://superuser.com/questions/1425118/imovie-crashing-for-a-particular-project
+38,,831338733,,408981434,Seed App External ID list provided by user (version unknown)
+39,10.1.12,831420740,,408981434,Version from user crash report; source: https://discussions.apple.com/thread/251438761
+40,,832315220,,408981434,Seed App External ID list provided by user (version unknown)
+41,10.1.13,832890727,,408981434,Version from user crash report; source: https://github.com/dosdude1/macos-catalina-patcher/issues/2
+42,10.1.14,833483666,2019-12-10,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+43,10.1.14,833483666,2019-12-10,408981434,CORRECTED (was 833677695) via amp-api-edge
+44,10.1.15,836654954,2020-08-25,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+45,,837323028,,408981434,Seed App External ID list provided by user (version unknown)
+46,10.1.16,837625718,2020-09-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+47,10.2,838092600,2020-11-12,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+48,,838149856,,408981434,Seed App External ID list provided by user (version unknown)
+49,,838283142,,408981434,Seed App External ID list provided by user (version unknown)
+50,10.2.1,839051214,2020-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+51,10.2.2,839547504,2020-12-14,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+52,10.2.3,840061676,2021-03-04,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+53,10.2.3,840061676,2021-03-04,408981434,CORRECTED (was 840377116) via amp-api-edge
+54,10.2.4,841240386,2021-06-17,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+55,,842554095,,408981434,Seed App External ID list provided by user (version unknown)
+56,10.2.5,842933683,2021-07-08,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+57,10.3,843363174,2021-10-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+58,,844431982,,408981434,Seed App External ID list provided by user (version unknown)
+59,10.3.1,844953929,2021-11-15,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+60,10.3.2,847434621,2022-04-12,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+61,,847850317,,408981434,Seed App External ID list provided by user (version unknown)
+62,10.3.3,849059674,2022-05-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+63,10.3.4,851212169,2022-08-09,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+64,10.3.5,852332964,2022-10-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+65,10.3.5,852332964,2022-10-24,408981434,CORRECTED (was 852712455) via amp-api-edge
+66,10.3.6,856285740,2023-05-23,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+67,,856978950,,408981434,Seed App External ID list provided by user (version unknown)
+68,10.3.7,858081821,2023-07-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+69,10.3.8,858759843,2023-08-01,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+70,10.3.9,859162440,2023-09-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+71,,859794331,,408981434,Seed App External ID list provided by user (version unknown)
+72,10.3.10,860357764,2023-10-05,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+73,10.4,860618838,2023-11-30,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+74,,861461512,,408981434,Seed App External ID list provided by user (version unknown)
+75,10.4.1,864230779,2024-06-20,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+76,,864958063,,408981434,Seed App External ID list provided by user (version unknown)
+77,,865051576,,408981434,Seed App External ID list provided by user (version unknown)
+78,10.4.2,867747307,2024-08-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+79,10.4.3,868934249,2024-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+80,,869656972,,408981434,Seed App External ID list provided by user (version unknown)

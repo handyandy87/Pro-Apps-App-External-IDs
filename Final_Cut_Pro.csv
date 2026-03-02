@@ -1,67 +1,67 @@
-Release Order (oldest→newest),Final Cut Pro Version,App External ID,App Item ID,Notes / Source
-1,10.0.0,3491984,424389933,User provided
-2,10.0.1,4138831,424389933,User provided
-3,10.0.2,4893955,424389933,User provided
-4,10.0.3,5878386,424389933,User provided
-5,10.0.4,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-6,10.0.5,8007636,424389933,User provided
-7,10.0.6,10982846,424389933,User provided
-8,10.0.7,12596438,424389933,User provided
-9,10.0.8,14685451,424389933,User provided
-10,10.0.9,15900113,424389933,User provided
-11,10.1,223682791,424389933,Crash report (Apple Community thread 5730370)
-12,10.1.1,299842652,424389933,User provided
-13,10.1.2,593434168,424389933,User provided
-14,10.1.3,668174963,424389933,User provided
-15,10.1.4,770263234,424389933,User provided
-16,10.2,811968672,424389933,User provided
-17,10.2.1,812379208,424389933,User provided
-18,10.2.2,812968461,424389933,User provided
-19,10.2.3,815823966,424389933,User provided
-20,10.3,819346388,424389933,User provided
-21,10.3.1,819647489,424389933,User provided
-22,10.3.2,820495613,424389933,User provided
-23,10.3.3,821547658,424389933,User provided
-24,10.3.4,822103330,424389933,User provided
-25,10.4,824369151,424389933,User provided
-26,10.4.1,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-27,10.4.2,826808281,424389933,User provided
-28,10.4.3,827519678,424389933,User provided
-29,10.4.4,828640430,424389933,User provided
-30,10.4.5,829927971,424389933,User provided
-31,10.4.6,830604740,424389933,Crash report shows Version 10.4.6 and App External ID 830604740 (MacMagazine forum post). https://forum.macmagazine.com.br/topic/177261-finalcut-x-encerrando-no-catalina/
-32,10.4.7,832849067,424389933,User provided
-33,10.4.8,833677189,424389933,Crash report shows Version 10.4.8 and App External ID 833677189 (Apple Support Community thread 252129568). https://discussions.apple.com/thread/252129568
-34,10.4.9,837325800,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-35,10.4.10,837625711,424389933,Crash report shows Version 10.4.10 and App External ID 837625711 (Apple Support Community thread 253928747). https://discussions.apple.com/thread/253928747
-36,10.5,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
-37,10.5.1,839437266,424389933,Crash report shows Version 10.5.1 and App External ID 839437266 (Apple Support Community thread 252243034). https://discussions.apple.com/thread/252243034?page=2
-38,10.5.2,840377123,424389933,Crash report shows Version 10.5.2 and App External ID 840377123 (Apple Support Community DE thread 252661174). https://communities.apple.com/de/thread/252661174
-39,10.5.3,842271101,424389933,Crash report shows Version 10.5.3 and App External ID 842271101 (Apple Support Community thread 251672281). https://discussions.apple.com/thread/251672281
-40,10.5.4,842932377,424389933,Crash report shows Version 10.5.4 and App External ID 842932377 (Apple Support Community thread 253295796). https://discussions.apple.com/thread/253295796
-41,10.6,843363197,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
-42,10.6.1,844953914,424389933,User provided
-43,10.6.2,847601109,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
-44,10.6.3,849059388,424389933,User provided
-45,10.6.4,851212100,424389933,User provided
-46,10.6.5,852712461,424389933,Crash report shows Version 10.6.5 and App External ID 852712461 (Reddit r/fcpx post). https://www.reddit.com/r/fcpx/comments/11m5jbf/final_cut_pro_crash_when_file_library_is_open/
-47,10.6.6,856984246,424389933,User provided
-48,10.6.7,858081843,424389933,Crash report shows Version 10.6.7 and App External ID 858081843 (Apple Support Community thread 255424613). https://discussions.apple.com/thread/255424613
-49,10.6.8,858759812,424389933,Crash report shows Version 10.6.8 and App External ID 858759812 (GitHub issue). https://github.com/CommandPost/FCPCafe/issues/238
-50,10.6.9,859162329,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
-51,10.6.10,860357778,424389933,Crash report shows Version 10.6.10 and App External ID 860357778 (Apple Support Community thread 255292102). https://discussions.apple.com/thread/255292102
-52,10.7,861461506,424389933,User provided
-53,10.7.1,861999800,424389933,User provided
-54,10.8,864231047,424389933,Fetched via amp-api-edge.apps.apple.com versionHistory
-55,10.8.1,867747287,424389933,User provided
-56,11,869630074,424389933,Seed App External ID provided by API - Version verified by API query
-57,11,868934312,424389933,Seed App External ID provided by API - Version verified by API query
-58,11,870244110,424389933,Seed App External ID provided by API - Version verified by API query
-59,11.0.1,871732983,424389933,Seed App External ID provided by API - Version verified by API query
-60,11.0.1,872058532,424389933,Seed App External ID provided by API - Version verified by API query
-61,11.1,872452762,424389933,Seed App External ID provided by API - Version verified by API query
-62,11.1,873376670,424389933,Seed App External ID provided by API - Version verified by API query
-63,11.1.1,874753139,424389933,Seed App External ID provided by API - Version verified by API query
-64,11.2,877853662,424389933,Seed App External ID provided by API - Version verified by API query
-65,12,878609324,424389933,Seed App External ID provided by API - Version verified by API query
-66,12,881360665,424389933,Seed App External ID provided by API - Version verified by API query
+Release Order (oldest→newest),Final Cut Pro Version,App External ID,Release Date,App Item ID,Notes / Source
+1,10.0.0,3491984,,424389933,User provided
+2,10.0.1,4138831,,424389933,User provided
+3,10.0.2,4893955,,424389933,User provided
+4,10.0.3,5878386,,424389933,User provided
+5,10.0.4,,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+6,10.0.5,8007636,,424389933,User provided
+7,10.0.6,10982846,,424389933,User provided
+8,10.0.7,12596438,,424389933,User provided
+9,10.0.8,14685451,,424389933,User provided
+10,10.0.9,15900113,,424389933,User provided
+11,10.1,223682791,,424389933,Crash report (Apple Community thread 5730370)
+12,10.1.1,299842652,,424389933,User provided
+13,10.1.2,593434168,,424389933,User provided
+14,10.1.3,668174963,,424389933,User provided
+15,10.1.4,770263234,,424389933,User provided
+16,10.2,811968672,,424389933,User provided
+17,10.2.1,812379208,,424389933,User provided
+18,10.2.2,812968461,,424389933,User provided
+19,10.2.3,815823966,,424389933,User provided
+20,10.3,819346388,,424389933,User provided
+21,10.3.1,819647489,,424389933,User provided
+22,10.3.2,820495613,,424389933,User provided
+23,10.3.3,821547658,,424389933,User provided
+24,10.3.4,822103330,,424389933,User provided
+25,10.4,824369151,,424389933,User provided
+26,10.4.1,,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+27,10.4.2,826808281,,424389933,User provided
+28,10.4.3,827519678,,424389933,User provided
+29,10.4.4,828640430,,424389933,User provided
+30,10.4.5,829927971,,424389933,User provided
+31,10.4.6,830604740,,424389933,Crash report shows Version 10.4.6 and App External ID 830604740 (MacMagazine forum post). https://forum.macmagazine.com.br/topic/177261-finalcut-x-encerrando-no-catalina/
+32,10.4.7,832849067,,424389933,User provided
+33,10.4.8,833677189,,424389933,Crash report shows Version 10.4.8 and App External ID 833677189 (Apple Support Community thread 252129568). https://discussions.apple.com/thread/252129568
+34,10.4.9,837325800,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+35,10.4.10,837625711,,424389933,Crash report shows Version 10.4.10 and App External ID 837625711 (Apple Support Community thread 253928747). https://discussions.apple.com/thread/253928747
+36,10.5,,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
+37,10.5.1,839437266,2020-12-14,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+38,10.5.2,840289953,2021-03-04,424389933,CORRECTED (was 840377123) via amp-api-edge
+39,10.5.3,841241646,2021-06-17,424389933,CORRECTED (was 842271101) via amp-api-edge
+40,10.5.4,842932377,2021-07-08,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+41,10.6,843363197,2021-10-18,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+42,10.6.1,844953914,2021-11-15,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+43,10.6.2,847601109,2022-04-12,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+44,10.6.3,849059388,2022-05-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+45,10.6.4,851212100,2022-08-09,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+46,10.6.5,852332983,2022-10-24,424389933,CORRECTED (was 852712461) via amp-api-edge
+47,10.6.6,856285384,2023-05-23,424389933,CORRECTED (was 856984246) via amp-api-edge
+48,10.6.7,858081843,2023-07-18,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+49,10.6.8,858759812,2023-08-01,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+50,10.6.9,859162329,2023-09-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+51,10.6.10,860357778,2023-10-05,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+52,10.7,860619010,2023-11-30,424389933,CORRECTED (was 861461506) via amp-api-edge
+53,10.7.1,861999800,2023-12-21,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+54,10.8,864231047,2024-06-20,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+55,10.8.1,867747287,2024-08-13,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+56,11,869630074,,424389933,Seed App External ID provided by API - Version verified by API query
+57,11,868934312,,424389933,Seed App External ID provided by API - Version verified by API query
+58,11,870244110,,424389933,Seed App External ID provided by API - Version verified by API query
+59,11.0.1,871732983,2025-02-03,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+60,11.0.1,871732983,2025-02-03,424389933,CORRECTED (was 872058532) via amp-api-edge
+61,11.1,872452762,2025-03-27,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+62,11.1,872452762,2025-03-27,424389933,CORRECTED (was 873376670) via amp-api-edge
+63,11.1.1,874753139,2025-05-22,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+64,11.2,877853662,2025-09-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+65,12,878609324,,424389933,Seed App External ID provided by API - Version verified by API query
+66,12,881360665,,424389933,Seed App External ID provided by API - Version verified by API query
