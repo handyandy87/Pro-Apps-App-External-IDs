@@ -1,19 +1,19 @@
 Release Order (oldest→newest),GarageBand Version,App External ID,Release Date,App Item ID,Notes / Source
-1,,15985856,,682658836,Seed App External ID provided by API
-2,,86112662,,682658836,Seed App External ID provided by API
-3,,337342642,,682658836,Seed App External ID provided by API
-4,,513162807,,682658836,Seed App External ID provided by API
-5,,811655132,,682658836,Seed App External ID provided by API
-6,,813573506,,682658836,Seed App External ID provided by API
-7,,817004226,,682658836,Seed App External ID provided by API
+1,10.0.3,15985856,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+2,10.0.1,86112662,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+3,10.0.2,337342642,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+4,10.0.3,513162807,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+5,10.1.0,811655132,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+6,10.0.0,813573506,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+7,10.1.2,817004226,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
 8,10.1.3,817453930,2016-10-27,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 9,10.1.4,819546190,2016-12-08,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 10,10.1.5,820103969,2017-01-18,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 11,10.1.6,820728589,2017-02-13,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 12,10.2,821040177,2017-06-05,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
-13,,822303020,,682658836,Seed App External ID provided by API
+13,10.2.0,822303020,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
 14,10.3,823246612,2018-06-21,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
-15,,826409342,,682658836,Seed App External ID provided by API
+15,10.3.0,826409342,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
 16,10.3.1,827663380,2018-06-28,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 17,10.3.2,828823975,2018-12-06,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 18,10.3.3,830336527,2019-10-07,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
@@ -21,8 +21,8 @@ Release Order (oldest→newest),GarageBand Version,App External ID,Release Date,
 20,10.3.5,834272330,2020-07-21,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 21,10.3.5,834272330,2020-07-21,682658836,CORRECTED (was 836732248) via amp-api-edge
 22,10.4.0,837032462,2020-11-12,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
-23,,838179989,,682658836,Seed App External ID provided by API
-24,,838318608,,682658836,Seed App External ID provided by API
+23,10.4.0,838179989,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
+24,10.4.0,838318608,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
 25,10.4.1,839050897,2020-11-12,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 26,10.4.2,839116488,2020-12-10,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 27,10.4.3,839992837,2021-04-06,682658836,API validated via amp-api-edge.apps.apple.com versionHistory

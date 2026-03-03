@@ -5,7 +5,7 @@ Release Order (oldest→newest),Logic Pro Version,App External ID,Release Date,A
 4,10.0.3,16404831,,634148309,Seed App External ID provided by API - Version verified by API query
 5,10.0.3,16567946,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 6,10.0.4,73352631,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-7,,86112663,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+7,10.0.5,86112663,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 8,10.0.6,283213010,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 9,10.0.7,337342644,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 10,10.1.0,590352671,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
@@ -17,29 +17,29 @@ Release Order (oldest→newest),Logic Pro Version,App External ID,Release Date,A
 16,10.2.4,817791688,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://discussions.apple.com/thread/7816471
 17,10.3.0,818314444,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://discussions.apple.com/thread/7856072
 18,10.3.1,820728577,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://discussions.apple.com/thread/7913817
-19,,821166425,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+19,10.3.2,821166425,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 20,10.3.2,822780858,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version from user crash report; source: https://www.logicprohelp.com/forums/topic/116932-logic-x-crashes-everytime-i-quit/
-21,,823246622,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+21,10.3.3,823246622,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 22,10.3.3,825257301,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-23,,825386372,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+23,10.4.0,825386372,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 24,10.4.0,825697299,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 25,10.4.1,825945185,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-26,,826582406,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+26,10.4.2,826582406,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 27,10.4.2,828482134,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 28,10.4.3,828823649,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 29,10.4.4,829681282,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-30,,830336533,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+30,10.4.5,830336533,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 31,10.4.5,831355815,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 32,10.4.6,831740754,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-33,,832148246,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-34,,832759050,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+33,10.4.7,832148246,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
+34,10.4.7,832759050,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 35,10.4.7,832906520,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 36,10.4.8,833082327,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-37,,834272154,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+37,10.5.0,834272154,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 38,10.5.0,835637741,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 39,10.5.1,835960408,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-40,,837306077,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-41,,838420634,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+40,10.6.0,837306077,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
+41,10.6.0,838420634,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 42,10.6.0,838457300,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 43,10.6.1,839116456,2020-12-10,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 44,10.6.2,839992829,2021-04-27,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
