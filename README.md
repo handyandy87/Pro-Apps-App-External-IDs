@@ -22,6 +22,20 @@ Once you've identified the App External ID for the version you want, you can use
 
 **MAS 1.9.0 Patched:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher
 
+# Last Compatible Versions by macOS
+
+If you're on an older version of macOS, use the table below to find the last version of each Pro App that was compatible with your OS. You can then look up the corresponding App External ID in the CSV files to install that version.
+
+| App | High Sierra (10.13) | Mojave (10.14) | Catalina (10.15) | Monterey (12) |
+|-----|:-------------------:|:--------------:|:----------------:|:-------------:|
+| Final Cut Pro | 10.4.6 | 10.4.10 | 10.5.4 | 10.6.8 |
+| Compressor | 4.4.4 | 4.4.8 | 4.5.4 | 4.6.5 |
+| Motion | 5.4.3 | 5.4.7 | 5.5.3 | 5.6.5 |
+| Logic Pro | 10.4.8 | 10.5.1 | 10.6.3 | 10.7.9 |
+| MainStage | 3.4.4 | 3.4.4 | 3.5.3 | 3.6.4 |
+
+> Note: Data for Big Sur, Ventura, and Sonoma is not yet included. Contributions welcome!
+
 # How to Contribute an App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.
 
