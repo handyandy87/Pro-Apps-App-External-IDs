@@ -24,17 +24,47 @@ Once you've identified the App External ID for the version you want, you can use
 
 # Last Compatible Versions by macOS
 
-If you're on an older version of macOS, use the table below to find the last version of each Pro App that was compatible with your OS. You can then look up the corresponding App External ID in the CSV files to install that version.
-
-| App | High Sierra (10.13) | Mojave (10.14) | Catalina (10.15) | Monterey (12) |
-|-----|:-------------------:|:--------------:|:----------------:|:-------------:|
-| Final Cut Pro | 10.4.6 | 10.4.10 | 10.5.4 | 10.6.8 |
-| Compressor | 4.4.4 | 4.4.8 | 4.5.4 | 4.6.5 |
-| Motion | 5.4.3 | 5.4.7 | 5.5.3 | 5.6.5 |
-| Logic Pro | 10.4.8 | 10.5.1 | 10.6.3 | 10.7.9 |
-| MainStage | 3.4.4 | 3.4.4 | 3.5.3 | 3.6.4 |
+If you're on an older version of macOS, use the tables below to find the last version of each Pro App compatible with your OS, along with the App Item ID and App External ID needed to install it.
 
 > Note: Data for Big Sur, Ventura, and Sonoma is not yet included. Contributions welcome!
+
+### High Sierra (10.13)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 10.4.6 | 424389933 | 830604740 |
+| Compressor | 4.4.4 | 424390742 | 830431847 |
+| Motion | 5.4.3 | 434290957 | 830431815 |
+| Logic Pro | 10.4.8 | 634148309 | 833082327 |
+| MainStage | 3.4.4 | 634159523 | 832148253 |
+
+### Mojave (10.14)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 10.4.10 | 424389933 | 837625711 |
+| Compressor | 4.4.8 | 424390742 | 837625598 |
+| Motion | 5.4.7 | 434290957 | 837625726 |
+| Logic Pro | 10.5.1 | 634148309 | 835960408 |
+| MainStage | 3.4.4 | 634159523 | 832148253 |
+
+### Catalina (10.15)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 10.5.4 | 424389933 | 842932377 |
+| Compressor | 4.5.4 | 424390742 | 842932628 |
+| Motion | 5.5.3 | 434290957 | 842933665 |
+| Logic Pro | 10.6.3 | 634148309 | 841990097 |
+| MainStage | 3.5.3 | 634159523 | 841990111 |
+
+### Monterey (12)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 10.6.8 | 424389933 | 858759812 |
+| Compressor | 4.6.5 | 424390742 | 858081833 |
+| Motion | 5.6.5 | 434290957 | 858081811 |
+| Logic Pro | 10.7.9 | 634148309 | 857501258 |
+| MainStage | 3.6.4 | 634159523 | — |
+
+> ⚠️ MainStage 3.6.4's App External ID is not yet in the CSV (the file jumps from 3.6.3 to 3.6.5). If you have this version installed, please contribute!
 
 # How to Contribute an App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.
