@@ -20,7 +20,7 @@ Release Order (oldest→newest),GarageBand Version,App External ID,Release Date,
 19,10.3.4,833082318,2019-12-10,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 20,10.3.5,834272330,2020-07-21,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 21,10.3.5,834272330,2020-07-21,682658836,CORRECTED (was 836732248) via amp-api-edge
-22,10.3.5,836732248,,682658836,User provided (v10.3.5 confirmed on Mojave system; the previous correction to 834272330 may be incorrect)
+22,10.3.5,836732248,,682658836,User provided (v10.3.5 confirmed on Mojave and Catalina systems; the previous correction to 834272330 may be incorrect)
 23,10.4.0,837032462,2020-11-12,682658836,API validated via amp-api-edge.apps.apple.com versionHistory
 23,10.4.0,838179989,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup
 24,10.4.0,838318608,,682658836,Seed App External ID provided by API | Version via mas bundleVersion lookup

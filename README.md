@@ -60,6 +60,12 @@ If you're on an older version of macOS, use the tables below to find the last ve
 | Motion | 5.5.3 | 434290957 | 842933665 |
 | Logic Pro | 10.6.3 | 634148309 | 841990097 |
 | MainStage | 3.5.3 | 634159523 | 841990111 |
+| GarageBand | 10.3.5 | 682658836 | 836732248 |
+| iMovie | 10.2.5 | 408981434 | 842933683 |
+| Keynote | 11.1 | 409183694 | 842170568 |
+| Numbers | 11.1 | 409203825 | 842170571 |
+| Pages | 11.1 | 409201541 | 842170573 |
+| Xcode | 12.4 | 497799835 | 839994694 |
 
 ### Monterey (12)
 | App | Version | App Item ID | App External ID |
