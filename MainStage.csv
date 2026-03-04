@@ -28,7 +28,7 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 27,3.4.2,829311980,2018-12-06,634159523,CORRECTED (was 838507763) via amp-api-edge
 28,3.4.3,830336538,2019-07-16,634159523,CORRECTED (was 838525112) via amp-api-edge
 29,3.4.4,832148253,2020-02-25,634159523,CORRECTED (was 838560845) via amp-api-edge
-30,3.4.4,834637212,,634159523,User provided (v3.4.4 confirmed on Mojave system; explains why amp-api-edge corrected 3.3.2 away from this ID to 823246637)
+30,3.4.4,834637212,,634159523,User provided (v3.4.4 confirmed on High Sierra and Mojave systems; explains why amp-api-edge corrected 3.3.2 away from this ID to 823246637)
 31,3.5,837032464,2020-11-12,634159523,CORRECTED (was 839116620) via amp-api-edge
 31,3.5.1,839116620,2020-12-10,634159523,CORRECTED (was 839992832) via amp-api-edge
 32,3.5.2,839992832,2021-04-27,634159523,CORRECTED (was 841990111) via amp-api-edge

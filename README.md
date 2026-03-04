@@ -35,7 +35,12 @@ If you're on an older version of macOS, use the tables below to find the last ve
 | Compressor | 4.4.4 | 424390742 | 830431847 |
 | Motion | 5.4.3 | 434290957 | 830431815 |
 | Logic Pro | 10.4.8 | 634148309 | 833082327 |
-| MainStage | 3.4.4 | 634159523 | 832148253 |
+| MainStage | 3.4.4 | 634159523 | 834637212 |
+| GarageBand | 10.3.5 | 682658836 | 836732248 |
+| iMovie | 10.1.12 | 408981434 | 831420740 |
+| Keynote | 9.1 | 409183694 | 831242334 |
+| Numbers | 6.1 | 409203825 | 830786366 |
+| Pages | 8.1 | 409201541 | 830786372 |
 
 ### Mojave (10.14)
 | App | Version | App Item ID | App External ID |
