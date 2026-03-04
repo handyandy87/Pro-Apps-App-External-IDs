@@ -62,9 +62,7 @@ If you're on an older version of macOS, use the tables below to find the last ve
 | Compressor | 4.6.5 | 424390742 | 858081833 |
 | Motion | 5.6.5 | 434290957 | 858081811 |
 | Logic Pro | 10.7.9 | 634148309 | 857501258 |
-| MainStage | 3.6.4 | 634159523 | — |
-
-> ⚠️ MainStage 3.6.4's App External ID is not yet in the CSV (the file jumps from 3.6.3 to 3.6.5). If you have this version installed, please contribute!
+| MainStage | 3.6.4 | 634159523 | 854029745 |
 
 # How to Contribute an App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.

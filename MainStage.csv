@@ -36,7 +36,8 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 35,3.6.1,847783103,2022-05-03,634159523,CORRECTED (was 848940073) via amp-api-edge
 36,3.6.2,848940073,2022-11-01,634159523,CORRECTED (was 853773023) via amp-api-edge
 37,3.6.3,853773023,2022-12-14,634159523,CORRECTED (was 854029745) via amp-api-edge
-38,4,858440801,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 858440801 MainStage' as of 2026-01-31).
+38,3.6.4,854029745,,634159523,User provided (v3.6.4 confirmed on Monterey system; explains why amp-api-edge corrected 3.6.3 away from this ID)
+39,4,858440801,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 858440801 MainStage' as of 2026-01-31).
 39,3.6.5,858440801,2023-11-06,634159523,CORRECTED (was 860975687) via amp-api-edge
 40,4,861312988,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861312988 MainStage' as of 2026-01-31).
 41,3.7,862757050,2025-01-30,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
