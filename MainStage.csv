@@ -28,7 +28,8 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 27,3.4.2,829311980,2018-12-06,634159523,CORRECTED (was 838507763) via amp-api-edge
 28,3.4.3,830336538,2019-07-16,634159523,CORRECTED (was 838525112) via amp-api-edge
 29,3.4.4,832148253,2020-02-25,634159523,CORRECTED (was 838560845) via amp-api-edge
-30,3.5,837032464,2020-11-12,634159523,CORRECTED (was 839116620) via amp-api-edge
+30,3.4.4,834637212,,634159523,User provided (v3.4.4 confirmed on High Sierra and Mojave systems; explains why amp-api-edge corrected 3.3.2 away from this ID to 823246637)
+31,3.5,837032464,2020-11-12,634159523,CORRECTED (was 839116620) via amp-api-edge
 31,3.5.1,839116620,2020-12-10,634159523,CORRECTED (was 839992832) via amp-api-edge
 32,3.5.2,839992832,2021-04-27,634159523,CORRECTED (was 841990111) via amp-api-edge
 33,3.5.3,841990111,2021-07-13,634159523,CORRECTED (was 843578961) via amp-api-edge
@@ -36,7 +37,8 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 35,3.6.1,847783103,2022-05-03,634159523,CORRECTED (was 848940073) via amp-api-edge
 36,3.6.2,848940073,2022-11-01,634159523,CORRECTED (was 853773023) via amp-api-edge
 37,3.6.3,853773023,2022-12-14,634159523,CORRECTED (was 854029745) via amp-api-edge
-38,4,858440801,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 858440801 MainStage' as of 2026-01-31).
+38,3.6.4,854029745,,634159523,User provided (v3.6.4 confirmed on Monterey system; explains why amp-api-edge corrected 3.6.3 away from this ID)
+39,4,858440801,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 858440801 MainStage' as of 2026-01-31).
 39,3.6.5,858440801,2023-11-06,634159523,CORRECTED (was 860975687) via amp-api-edge
 40,4,861312988,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861312988 MainStage' as of 2026-01-31).
 41,3.7,862757050,2025-01-30,634159523,API validated via amp-api-edge.apps.apple.com versionHistory

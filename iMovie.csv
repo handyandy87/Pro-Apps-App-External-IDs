@@ -42,7 +42,8 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 41,10.1.13,832890727,,408981434,Version from user crash report; source: https://github.com/dosdude1/macos-catalina-patcher/issues/2
 42,10.1.14,833483666,2019-12-10,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 43,10.1.14,833483666,2019-12-10,408981434,CORRECTED (was 833677695) via amp-api-edge
-44,10.1.15,836654954,2020-08-25,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+44,10.1.14,833677695,,408981434,User provided (v10.1.14 confirmed on Mojave system; the previous correction to 833483666 may be incorrect)
+45,10.1.15,836654954,2020-08-25,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 45,10.1.15,837323028,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 46,10.1.16,837625718,2020-09-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 47,10.2,838092600,2020-11-12,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
