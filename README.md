@@ -63,6 +63,12 @@ If you're on an older version of macOS, use the tables below to find the last ve
 | Motion | 5.6.5 | 434290957 | 858081811 |
 | Logic Pro | 10.7.9 | 634148309 | 857501258 |
 | MainStage | 3.6.4 | 634159523 | 854029745 |
+| GarageBand | 10.4.8 | 682658836 | 853773014 |
+| iMovie | 10.3.8 | 408981434 | 858759843 |
+| Keynote | 13.1 | 409183694 | 857401958 |
+| Numbers | 13.1 | 409203825 | 857401959 |
+| Pages | 13.1 | 409201541 | 857401961 |
+| Xcode | 14.2 | 497799835 | 853602198 |
 
 # How to Contribute an App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.
