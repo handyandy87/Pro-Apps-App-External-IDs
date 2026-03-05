@@ -26,7 +26,7 @@ Once you've identified the App External ID for the version you want, you can use
 
 **mas-legacyapps** is a Swift command-line tool that bundles the App External ID data from this repo into a guided, menu-driven installer. Instead of manually looking up IDs and running `mas install` commands yourself, it walks you through three short menus and then downloads and installs each app automatically.
 
-**mas-legacyapps:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher/tree/mas190-appExtVrsId-patcher/standalone/mas-legacyapps
+**mas-legacyapps:** https://github.com/handyandy87/mas-legacyapps
 
 ### What it does
 - Prompts you to select a target macOS version (High Sierra through Monterey)
@@ -75,8 +75,8 @@ Toggle an app (enter number), or press Enter to continue:
 
 ### Build & run
 ```bash
-git clone https://github.com/handyandy87/mas-cli-appExtVrsId-patcher.git
-cd mas-cli-appExtVrsId-patcher/standalone/mas-legacyapps
+git clone https://github.com/handyandy87/mas-legacyapps.git
+cd mas-legacyapps
 swift build --configuration release
 .build/release/mas-legacyapps
 ```
@@ -86,6 +86,22 @@ Or use the included convenience scripts:
 script/build    # builds only
 script/install  # builds and installs to /usr/local/bin
 ```
+
+### Automated mode
+
+Command-line flags let you bypass the interactive menus:
+
+```bash
+mas-legacyapps --os catalina --category pro --yes
+```
+
+| Flag | Description |
+|------|-------------|
+| `--os <version>` | Target macOS (e.g. `high-sierra`, `mojave`, `catalina`, `monterey`) |
+| `--category <cat>` | App category: `pro`, `iwork`, or `both` |
+| `--all` | Select all apps in the chosen category |
+| `--yes` | Skip confirmation prompt and install immediately |
+| `--delay <seconds>` | Pause between downloads (default: 0) |
 
 # Last Compatible Versions by macOS
 
