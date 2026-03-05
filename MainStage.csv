@@ -12,17 +12,17 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 11,3.0.1,814541391,,634159523,Crash report shows MainStage and App External ID 814541391 (Apple Support Community thread 7436119). https://discussions.apple.com/thread/7436119
 12,3.0.2,816296074,,634159523,Crash report includes App External ID 816296074 for MainStage (Korg Forums post). https://www.korgforums.com/forum/phpBB3/viewtopic.php?p=707285
 13,3.0.3,817508804,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 817508804 MainStage' as of 2026-01-31).
-14,3.0.4,821621337,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 821621337 MainStage' as of 2026-01-31).
+14,3.0.4,821621337,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 821621337 MainStage' as of 2026-01-31). NOTE: ID confirmed on 3.3.1 via system receipt; seed version assignment unverified.
 15,3.1,822630577,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 822630577 MainStage' as of 2026-01-31).
-16,3.1.1,823246637,,634159523,Crash report includes App External ID 823246637 for MainStage (Korg Forums post). https://www.korgforums.com/forum/phpBB3/viewtopic.php?p=717479
+16,3.1.1,823246637,,634159523,Crash report includes App External ID 823246637 for MainStage (Korg Forums post). https://www.korgforums.com/forum/phpBB3/viewtopic.php?p=717479 NOTE: ID confirmed on 3.3.2 via system receipt; seed version assignment unverified.
 17,3.2,823564233,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 823564233 MainStage' as of 2026-01-31).
 18,3.2.1,828388774,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 828388774 MainStage' as of 2026-01-31).
 19,3.2.2,813552370,2015-10-22,634159523,CORRECTED (was 828482204) via amp-api-edge
 20,3.2.3,814541391,2016-01-20,634159523,CORRECTED (was 828823656) via amp-api-edge
 21,3.2.4,816296074,2016-04-07,634159523,CORRECTED (was 829311980) via amp-api-edge
 22,3.3,817508804,2017-03-27,634159523,CORRECTED (was 830336538) via amp-api-edge
-23,3.3.1,821621337,2017-07-18,634159523,CORRECTED (was 832148253) via amp-api-edge
-24,3.3.2,823246637,2017-08-31,634159523,CORRECTED (was 834637212) via amp-api-edge
+23,3.3.1,821621337,2017-07-18,634159523,CORRECTED (was 832148253) via amp-api-edge; confirmed via system receipt
+24,3.3.2,823246637,2017-08-31,634159523,CORRECTED (was 834637212) via amp-api-edge; confirmed via system receipt
 25,3.4,823564233,2018-09-27,634159523,CORRECTED (was 837032464) via amp-api-edge
 26,3.4.1,828823656,2018-11-07,634159523,CORRECTED (was 838457305) via amp-api-edge
 27,3.4.2,829311980,2018-12-06,634159523,CORRECTED (was 838507763) via amp-api-edge
@@ -37,9 +37,9 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 35,3.6.1,847783103,2022-05-03,634159523,CORRECTED (was 848940073) via amp-api-edge
 36,3.6.2,848940073,2022-11-01,634159523,CORRECTED (was 853773023) via amp-api-edge
 37,3.6.3,853773023,2022-12-14,634159523,CORRECTED (was 854029745) via amp-api-edge
-38,3.6.4,854029745,,634159523,User provided (v3.6.4 confirmed on Monterey system; explains why amp-api-edge corrected 3.6.3 away from this ID)
-39,4,858440801,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 858440801 MainStage' as of 2026-01-31).
+38,3.6.4,854029745,2023-07-11,634159523,API validated via amp-api-edge.apps.apple.com versionHistory; also confirmed on Monterey system
 39,3.6.5,858440801,2023-11-06,634159523,CORRECTED (was 860975687) via amp-api-edge
-40,4,861312988,,634159523,No public web source located that explicitly contains this App External ID (searched for 'App External ID 861312988 MainStage' as of 2026-01-31).
+40,3.6.6,861312988,2023-12-07,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 41,3.7,862757050,2025-01-30,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 42,3.7.1,872417396,2025-03-04,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
+43,4.0,875889029,2026-01-28,634159523,API validated via amp-api-edge.apps.apple.com versionHistory

@@ -54,14 +54,9 @@ Release Order (oldest→newest),Final Cut Pro Version,App External ID,Release Da
 53,10.7.1,861999800,2023-12-21,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 54,10.8,864231047,2024-06-20,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 55,10.8.1,867747287,2024-08-13,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-56,11,869630074,,424389933,Seed App External ID provided by API - Version verified by API query
-57,11,868934312,,424389933,Seed App External ID provided by API - Version verified by API query
-58,11,870244110,,424389933,Seed App External ID provided by API - Version verified by API query
-59,11.0.1,871732983,2025-02-03,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-60,11.0.1,871732983,2025-02-03,424389933,CORRECTED (was 872058532) via amp-api-edge
-61,11.1,872452762,2025-03-27,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-62,11.1,872452762,2025-03-27,424389933,CORRECTED (was 873376670) via amp-api-edge
-63,11.1.1,874753139,2025-05-22,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-64,11.2,877853662,2025-09-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-65,12,878609324,,424389933,Seed App External ID provided by API - Version verified by API query
-66,12,881360665,,424389933,Seed App External ID provided by API - Version verified by API query
+56,11.0,868934312,2024-11-13,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+57,11.0.1,871732983,2025-02-03,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+58,11.1,872452762,2025-03-27,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+59,11.1.1,874753139,2025-05-22,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+60,11.2,877853662,2025-09-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+61,12.0,878609324,2026-01-28,424389933,API validated via amp-api-edge.apps.apple.com versionHistory

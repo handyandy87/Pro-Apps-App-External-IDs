@@ -40,10 +40,8 @@ Release Order (oldest→newest),Compressor Version,App External ID,Release Date,
 39,4.7,860602396,2023-11-30,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
 40,4.8,861999753,2024-06-20,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
 41,4.9,868934276,2024-11-13,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
-43,4.9,868934276,2024-11-13,424390742,CORRECTED (was 869662410) via amp-api-edge
-44,4.10,873128472,2025-03-27,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
-46,4.10,873128472,2025-03-27,424390742,CORRECTED (was 873376740) via amp-api-edge
-47,4.10.1,874753582,2025-05-22,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
-48,4.11,877851588,2025-09-19,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
-49,4.11,877851588,2025-09-19,424390742,CORRECTED (was 878206483) via amp-api-edge
-50,4.11.1,878609353,2025-11-13,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
+42,4.10,873128472,2025-03-27,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
+43,4.10.1,874753582,2025-05-22,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
+44,4.11,877851588,2025-09-19,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
+45,4.11.1,878609353,2025-11-13,424390742,API validated via amp-api-edge.apps.apple.com versionHistory
+46,5.0,880785050,2026-01-28,424390742,API validated via amp-api-edge.apps.apple.com versionHistory

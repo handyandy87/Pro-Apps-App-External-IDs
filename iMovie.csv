@@ -40,10 +40,9 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 39,10.1.12,831420740,,408981434,Version from user crash report; source: https://discussions.apple.com/thread/251438761
 40,10.1.13,832315220,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 41,10.1.13,832890727,,408981434,Version from user crash report; source: https://github.com/dosdude1/macos-catalina-patcher/issues/2
-42,10.1.14,833483666,2019-12-10,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-43,10.1.14,833483666,2019-12-10,408981434,CORRECTED (was 833677695) via amp-api-edge
-44,10.1.14,833677695,,408981434,User provided (v10.1.14 confirmed on Mojave system; the previous correction to 833483666 may be incorrect)
-45,10.1.15,836654954,2020-08-25,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+42,10.1.14,833483666,2019-12-10,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; CORRECTED (was 833677695) via amp-api-edge
+43,10.1.14,833677695,,408981434,User provided (v10.1.14 confirmed on Mojave system; conflicts with API-validated 833483666 — dispute unresolved)
+44,10.1.15,836654954,2020-08-25,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 45,10.1.15,837323028,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 46,10.1.16,837625718,2020-09-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 47,10.2,838092600,2020-11-12,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
@@ -51,32 +50,31 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 49,10.2,838283142,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 50,10.2.1,839051214,2020-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 51,10.2.2,839547504,2020-12-14,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-52,10.2.3,840061676,2021-03-04,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-53,10.2.3,840061676,2021-03-04,408981434,CORRECTED (was 840377116) via amp-api-edge
-54,10.2.4,841240386,2021-06-17,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-55,10.2.4,842554095,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
-56,10.2.5,842933683,2021-07-08,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-57,10.3,843363174,2021-10-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-58,10.3,844431982,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
-59,10.3.1,844953929,2021-11-15,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-60,10.3.2,847434621,2022-04-12,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-61,10.3.2,847850317,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
-62,10.3.3,849059674,2022-05-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-63,10.3.4,851212169,2022-08-09,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-64,10.3.5,852332964,2022-10-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-65,10.3.5,852332964,2022-10-24,408981434,CORRECTED (was 852712455) via amp-api-edge
-66,10.3.6,856285740,2023-05-23,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-67,10.3.6,856978950,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
-68,10.3.7,858081821,2023-07-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-69,10.3.8,858759843,2023-08-01,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-70,10.3.9,859162440,2023-09-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-71,,859794331,,408981434,Seed App External ID list provided by user (version unknown)
-72,10.3.10,860357764,2023-10-05,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-73,10.4,860618838,2023-11-30,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-74,,861461512,,408981434,Seed App External ID list provided by user (version unknown)
-75,10.4.1,864230779,2024-06-20,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-76,,864958063,,408981434,Seed App External ID list provided by user (version unknown)
-77,,865051576,,408981434,Seed App External ID list provided by user (version unknown)
-78,10.4.2,867747307,2024-08-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-79,10.4.3,868934249,2024-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-80,,869656972,,408981434,Seed App External ID list provided by user (version unknown)
+52,10.2.3,840061676,2021-03-04,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; CORRECTED (was 840377116) via amp-api-edge
+53,10.2.4,841240386,2021-06-17,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+54,10.2.4,842554095,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
+55,10.2.5,842933683,2021-07-08,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+56,10.3,843363174,2021-10-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+57,10.3,844431982,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
+58,10.3.1,844953929,2021-11-15,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+59,10.3.2,847434621,2022-04-12,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+60,10.3.2,847850317,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
+61,10.3.3,849059674,2022-05-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+62,10.3.4,851212169,2022-08-09,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+63,10.3.5,852332964,2022-10-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; CORRECTED (was 852712455) via amp-api-edge
+64,10.3.6,856285740,2023-05-23,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+65,10.3.6,856978950,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
+66,10.3.7,858081821,2023-07-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+67,10.3.8,858759843,2023-08-01,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+68,10.3.9,859162440,2023-09-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+69,,859794331,,408981434,Seed App External ID list provided by user (version unknown)
+70,10.3.10,860357764,2023-10-05,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+71,10.4,860618838,2023-11-30,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+72,,861461512,,408981434,Seed App External ID list provided by user (version unknown)
+73,10.4.1,864230779,2024-06-20,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+74,,864958063,,408981434,Seed App External ID list provided by user (version unknown)
+75,,865051576,,408981434,Seed App External ID list provided by user (version unknown)
+76,10.4.2,867747307,2024-08-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+77,10.4.3,868934249,2024-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
+78,,869656972,,408981434,Seed App External ID list provided by user (version unknown)
+79,10.4.4,879349942,2026-01-28,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
