@@ -22,87 +22,6 @@ Once you've identified the App External ID for the version you want, you can use
 
 **MAS 1.9.0 Patched:** https://github.com/handyandy87/mas-cli-appExtVrsId-patcher
 
-# mas-legacyapps — Interactive Install Tool
-
-**mas-legacyapps** is a Swift command-line tool that bundles the App External ID data from this repo into a guided, menu-driven installer. Instead of manually looking up IDs and running `mas install` commands yourself, it walks you through three short menus and then downloads and installs each app automatically.
-
-**mas-legacyapps:** https://github.com/handyandy87/mas-legacyapps
-
-### What it does
-- Prompts you to select a target macOS version (High Sierra through Monterey)
-- Lets you choose app categories: Pro Apps, iWork & Media, or both (with optional Xcode)
-- Lets you toggle individual apps on or off before confirming
-- Downloads and installs each selected app sequentially, automatically
-- Skips apps not purchased under your Apple ID
-- If an install fails Gatekeeper validation, rescues the `.pkg` files to `/Users/Shared/MASExtractedPkgs/` so you can install them manually
-- Logs results to a timestamped file in your home directory
-
-### Interface
-
-```
-=== mas-legacyapps ===
-Select your macOS version:
-  1) High Sierra (10.13)
-  2) Mojave (10.14)
-  3) Catalina (10.15)
-  4) Monterey (12)
-Enter choice:
-```
-
-```
-Select app category:
-  1) Pro Apps (Final Cut Pro, Logic Pro, MainStage, Motion, Compressor)
-  2) iWork & Media (GarageBand, iMovie, Keynote, Pages, Numbers)
-  3) Both
-Enter choice:
-```
-
-```
-Apps selected for Catalina (10.15):
-  [x] Final Cut Pro       10.5.4
-  [x] Compressor          4.5.4
-  [x] Motion              5.5.3
-  [x] Logic Pro           10.6.3
-  [x] MainStage           3.5.3
-Toggle an app (enter number), or press Enter to continue:
-```
-
-### Requirements
-- macOS 10.13 or later
-- Signed into the Mac App Store with an Apple ID
-- Apps must have been previously purchased under your account
-- Xcode Command Line Tools (required to build from source)
-
-### Build & run
-```bash
-git clone https://github.com/handyandy87/mas-legacyapps.git
-cd mas-legacyapps
-swift build --configuration release
-.build/release/mas-legacyapps
-```
-
-Or use the included convenience scripts:
-```bash
-script/build    # builds only
-script/install  # builds and installs to /usr/local/bin
-```
-
-### Automated mode
-
-Command-line flags let you bypass the interactive menus:
-
-```bash
-mas-legacyapps --os catalina --category pro --yes
-```
-
-| Flag | Description |
-|------|-------------|
-| `--os <version>` | Target macOS (e.g. `high-sierra`, `mojave`, `catalina`, `monterey`) |
-| `--category <cat>` | App category: `pro`, `iwork`, or `both` |
-| `--all` | Select all apps in the chosen category |
-| `--yes` | Skip confirmation prompt and install immediately |
-| `--delay <seconds>` | Pause between downloads (default: 0) |
-
 # Last Compatible Versions by macOS
 
 If you're on an older version of macOS, use the tables below to find the last version of each Pro App compatible with your OS, along with the App Item ID and App External ID needed to install it.
@@ -295,3 +214,9 @@ application_version: 4.6.5
 app_item_id: 424390742
 app_external_id: 858081833
 ```
+
+# mas-legacyapps — Guided Install Tool
+
+**mas-legacyapps** is a Swift command-line tool that uses the App External ID data from this repo to walk you through selecting a target macOS version and app set, then downloads and installs each app automatically. Supports both interactive menus and non-interactive CLI flags.
+
+**mas-legacyapps:** https://github.com/handyandy87/mas-legacyapps
