@@ -18,10 +18,10 @@ Release Order (oldest→newest),Motion Version,App External ID,Release Date,App 
 17,5.3.2,,,434290957,Placeholder — version listed in Apple release notes (App External ID unknown); source: https://support.apple.com/en-us/102746
 18,5.4,824369279,,434290957,User Provided
 19,5.4.1,826111756,2018-04-09,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
-20,5.4.2,828480751,2018-11-15,434290957,CORRECTED (was 828792104) via amp-api-edge
+20,5.4.2,828480751,2018-11-15,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
 21,5.4.3,830431815,2019-03-21,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
 22,5.4.4,832315090,2019-10-07,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
-23,5.4.5,833483290,2019-12-10,434290957,CORRECTED (was 833694461) via amp-api-edge
+23,5.4.5,833483290,2019-12-10,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
 24,5.4.6,834608029,2020-08-25,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
 25,5.4.7,837625726,2020-09-24,434290957,API validated via amp-api-edge.apps.apple.com versionHistory
 26,5.5,838092719,2020-11-12,434290957,API validated via amp-api-edge.apps.apple.com versionHistory

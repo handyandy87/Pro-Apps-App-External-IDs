@@ -40,7 +40,7 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 39,10.1.12,831420740,,408981434,Version from user crash report; source: https://discussions.apple.com/thread/251438761
 40,10.1.13,832315220,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 41,10.1.13,832890727,,408981434,Version from user crash report; source: https://github.com/dosdude1/macos-catalina-patcher/issues/2
-42,10.1.14,833483666,2019-12-10,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; CORRECTED (was 833677695) via amp-api-edge
+42,10.1.14,833483666,2019-12-10,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; API validated via amp-api-edge.apps.apple.com versionHistory
 43,10.1.14,833677695,,408981434,User provided (v10.1.14 confirmed on Mojave system; conflicts with API-validated 833483666 — dispute unresolved)
 44,10.1.15,836654954,2020-08-25,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 45,10.1.15,837323028,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
@@ -50,7 +50,7 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 49,10.2,838283142,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 50,10.2.1,839051214,2020-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 51,10.2.2,839547504,2020-12-14,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-52,10.2.3,840061676,2021-03-04,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; CORRECTED (was 840377116) via amp-api-edge
+52,10.2.3,840061676,2021-03-04,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; API validated via amp-api-edge.apps.apple.com versionHistory
 53,10.2.4,841240386,2021-06-17,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 54,10.2.4,842554095,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 55,10.2.5,842933683,2021-07-08,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
@@ -61,7 +61,7 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 60,10.3.2,847850317,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 61,10.3.3,849059674,2022-05-19,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 62,10.3.4,851212169,2022-08-09,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-63,10.3.5,852332964,2022-10-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; CORRECTED (was 852712455) via amp-api-edge
+63,10.3.5,852332964,2022-10-24,408981434,API validated via amp-api-edge.apps.apple.com versionHistory; API validated via amp-api-edge.apps.apple.com versionHistory
 64,10.3.6,856285740,2023-05-23,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
 65,10.3.6,856978950,,408981434,Seed App External ID list provided by user (version unknown) | Version via mas bundleVersion lookup
 66,10.3.7,858081821,2023-07-18,408981434,API validated via amp-api-edge.apps.apple.com versionHistory

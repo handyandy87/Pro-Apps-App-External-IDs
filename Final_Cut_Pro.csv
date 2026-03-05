@@ -36,21 +36,21 @@ Release Order (oldest→newest),Final Cut Pro Version,App External ID,Release Da
 35,10.4.10,837625711,,424389933,Crash report shows Version 10.4.10 and App External ID 837625711 (Apple Support Community thread 253928747). https://discussions.apple.com/thread/253928747
 36,10.5,,,424389933,Placeholder — version exists in Apple release notes (App External ID unknown)
 37,10.5.1,839437266,2020-12-14,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-38,10.5.2,840289953,2021-03-04,424389933,CORRECTED (was 840377123) via amp-api-edge
-39,10.5.3,841241646,2021-06-17,424389933,CORRECTED (was 842271101) via amp-api-edge
+38,10.5.2,840289953,2021-03-04,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+39,10.5.3,841241646,2021-06-17,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 40,10.5.4,842932377,2021-07-08,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 41,10.6,843363197,2021-10-18,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 42,10.6.1,844953914,2021-11-15,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 43,10.6.2,847601109,2022-04-12,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 44,10.6.3,849059388,2022-05-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 45,10.6.4,851212100,2022-08-09,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-46,10.6.5,852332983,2022-10-24,424389933,CORRECTED (was 852712461) via amp-api-edge
-47,10.6.6,856285384,2023-05-23,424389933,CORRECTED (was 856984246) via amp-api-edge
+46,10.6.5,852332983,2022-10-24,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
+47,10.6.6,856285384,2023-05-23,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 48,10.6.7,858081843,2023-07-18,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 49,10.6.8,858759812,2023-08-01,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 50,10.6.9,859162329,2023-09-19,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 51,10.6.10,860357778,2023-10-05,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
-52,10.7,860619010,2023-11-30,424389933,CORRECTED (was 861461506) via amp-api-edge
+52,10.7,860619010,2023-11-30,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 53,10.7.1,861999800,2023-12-21,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 54,10.8,864231047,2024-06-20,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
 55,10.8.1,867747287,2024-08-13,424389933,API validated via amp-api-edge.apps.apple.com versionHistory
