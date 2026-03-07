@@ -15,16 +15,19 @@ Pro-Apps-App-External-IDs/
 ├── README.md                   # Project documentation and contribution guide
 ├── masreceipt-extid-finder.sh  # Bash script: extracts App External IDs from MASReceipt files
 ├── Compressor.csv              # Data: Apple Compressor (App Item ID: 424390742)
+├── CotEditor.csv               # Data: CotEditor (App Item ID: 1024640650)
 ├── Final_Cut_Pro.csv           # Data: Final Cut Pro (App Item ID: 424389933)
 ├── GarageBand.csv              # Data: GarageBand (App Item ID: 682658836)
 ├── iMovie.csv                  # Data: iMovie (App Item ID: 408981434)
 ├── Keynote.csv                 # Data: Keynote (App Item ID: 409183694)
 ├── Logic_Pro.csv               # Data: Logic Pro (App Item ID: 634148309)
-├── MainStage.csv               # Data: MainStage (App Item ID: 427865759)
-├── Motion.csv                  # Data: Apple Motion (App Item ID: 424393196)
+├── Magnet.csv                  # Data: Magnet (App Item ID: 441258766)
+├── MainStage.csv               # Data: MainStage (App Item ID: 634159523)
+├── Motion.csv                  # Data: Apple Motion (App Item ID: 434290957)
 ├── Numbers.csv                 # Data: Numbers (App Item ID: 409203825)
 ├── Pages.csv                   # Data: Pages (App Item ID: 409201541)
-└── Pixelmator_Pro.csv          # Data: Pixelmator Pro (App Item ID: 1289583905)
+├── Pixelmator_Pro.csv          # Data: Pixelmator Pro (App Item ID: 1289583905)
+└── Xcode.csv                   # Data: Xcode (App Item ID: 497799835)
 ```
 
 ---
@@ -147,16 +150,19 @@ These IDs are fixed identifiers for each application in the Mac App Store:
 | Application | App Item ID |
 |-------------|-------------|
 | Compressor | `424390742` |
+| CotEditor | `1024640650` |
 | Final Cut Pro | `424389933` |
 | GarageBand | `682658836` |
 | iMovie | `408981434` |
 | Keynote | `409183694` |
 | Logic Pro | `634148309` |
-| MainStage | `427865759` |
-| Motion | `424393196` |
+| Magnet | `441258766` |
+| MainStage | `634159523` |
+| Motion | `434290957` |
 | Numbers | `409203825` |
 | Pages | `409201541` |
 | Pixelmator Pro | `1289583905` |
+| Xcode | `497799835` |
 
 ---
 
@@ -189,11 +195,19 @@ Works on any `.app` obtained from the Mac App Store (requires `_MASReceipt/recei
 
 ---
 
+## Related Projects
+
+- **mas-cli patched (1.9.0):** [handyandy87/mas-cli-appExtVrsId-patcher](https://github.com/handyandy87/mas-cli-appExtVrsId-patcher) — A fork of the MAS CLI tool patched to accept a version argument (App External ID) at runtime, enabling installation of specific older app versions.
+- **mas-legacyapps:** [handyandy87/mas-legacyapps](https://github.com/handyandy87/mas-legacyapps) — A Swift command-line tool that consumes the CSV data in this repo to provide a guided install experience. Supports both interactive menus and non-interactive CLI flags for selecting a target macOS version and app set.
+
+---
+
 ## Git Workflow
 
 - Main branch: `main`
 - Historical development branch: `master` (mirrors `main`)
 - Feature/contribution branches should be named descriptively.
+- AI-generated branches follow the pattern `claude/<short-description>-<session-id>`.
 - Commit messages describe the source of the data additions (e.g., `"API validated via amp-api-edge.apps.apple.com versionHistory"`).
 
 ### Commit Message Conventions (from repository history)
