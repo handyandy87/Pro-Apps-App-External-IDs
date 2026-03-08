@@ -34,35 +34,36 @@ Release Order (oldest→newest),Logic Pro Version,App External ID,Release Date,A
 33,10.4.7,832148246,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 34,10.4.7,832759050,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 35,10.4.7,832906520,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
-36,10.4.8,833082327,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
+36,10.4.8,833082327,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Last compatible version for macOS High Sierra
 37,10.5.0,834272154,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 38,10.5.0,835637741,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-39,10.5.1,835960408,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
+39,10.5.1,835960408,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping | Last compatible version for macOS Mojave
 40,10.6.0,837306077,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 41,10.6.0,838420634,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version via mas bundleVersion lookup
 42,10.6.0,838457300,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
 43,10.6.1,839116456,2020-12-10,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 44,10.6.2,839992829,2021-04-27,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 45,10.6.2,839992829,2021-04-27,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
-46,10.6.3,841990097,2021-07-13,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
+46,10.6.3,841990097,2021-07-13,634148309,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Catalina
 47,10.7.0,843578949,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 48,10.7.1,844948718,2021-11-11,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 49,10.7.2,845355374,2021-12-09,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 50,10.7.3,845961407,2022-03-14,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 51,10.7.4,847783090,2022-04-26,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 52,10.7.4,847783090,2022-04-26,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
-53,10.7.5,848940055,2022-11-01,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
+53,10.7.4,848436302,,634148309,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Big Sur
+54,10.7.5,848940055,2022-11-01,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 54,10.7.5,848940055,2022-11-01,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 55,10.7.6,853772389,2022-12-14,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 56,10.7.7,854029738,2023-01-26,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 57,10.7.8,854695497,2023-05-23,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
-58,10.7.9,857501258,2023-07-11,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
+58,10.7.9,857501258,2023-07-11,634148309,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Monterey
 59,10.8,858441597,2023-11-06,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 60,10.8.0,860619119,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 61,10.8.1,861312964,2023-11-30,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 62,11.0,861999856,2024-05-13,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 63,11.0.0,865018845,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503 | Version filled from provided mapping
-64,11.0.1,865964375,2024-06-06,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
+64,11.0.1,865964375,2024-06-06,634148309,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Ventura
 65,11.1,866769274,2024-11-13,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 66,,869631222,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 67,11.1.0,870346202,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
@@ -71,6 +72,6 @@ Release Order (oldest→newest),Logic Pro Version,App External ID,Release Date,A
 70,11.2,871617181,2025-05-28,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 71,,874935669,,634148309,App External ID provided by user; source page: https://support.apple.com/en-afri/109503
 72,11.2.1,875264143,2025-07-03,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
-73,11.2.2,876200097,2025-07-22,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
+73,11.2.2,876200097,2025-07-22,634148309,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Sonoma
 74,12.0,878545729,2026-01-28,634148309,API validated via amp-api-edge.apps.apple.com versionHistory
 75,12.0.1,882090494,2026-02-05,634148309,API validated via amp-api-edge.apps.apple.com versionHistory

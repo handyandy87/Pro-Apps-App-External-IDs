@@ -28,18 +28,18 @@ Release Order (oldest→newest),MainStage Version,App External ID,Release Date,A
 27,3.4.2,829311980,2018-12-06,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 28,3.4.3,830336538,2019-07-16,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 29,3.4.4,832148253,2020-02-25,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
-30,3.4.4,834637212,,634159523,User provided (v3.4.4 confirmed on High Sierra and Mojave systems; explains why amp-api-edge corrected 3.3.2 away from this ID to 823246637)
+30,3.4.4,834637212,,634159523,User provided (v3.4.4 confirmed on High Sierra and Mojave systems; explains why amp-api-edge corrected 3.3.2 away from this ID to 823246637) | Last compatible version for macOS High Sierra | Last compatible version for macOS Mojave
 31,3.5,837032464,2020-11-12,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 31,3.5.1,839116620,2020-12-10,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 32,3.5.2,839992832,2021-04-27,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
-33,3.5.3,841990111,2021-07-13,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
+33,3.5.3,841990111,2021-07-13,634159523,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Catalina
 34,3.6,843578961,2022-03-14,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
-35,3.6.1,847783103,2022-05-03,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
+35,3.6.1,847783103,2022-05-03,634159523,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Big Sur
 36,3.6.2,848940073,2022-11-01,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
 37,3.6.3,853773023,2022-12-14,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
-38,3.6.4,854029745,2023-07-11,634159523,API validated via amp-api-edge.apps.apple.com versionHistory; also confirmed on Monterey system
+38,3.6.4,854029745,2023-07-11,634159523,API validated via amp-api-edge.apps.apple.com versionHistory; also confirmed on Monterey system | Last compatible version for macOS Monterey
 39,3.6.5,858440801,2023-11-06,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
-40,3.6.6,861312988,2023-12-07,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
+40,3.6.6,861312988,2023-12-07,634159523,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Ventura
 41,3.7,862757050,2025-01-30,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
-42,3.7.1,872417396,2025-03-04,634159523,API validated via amp-api-edge.apps.apple.com versionHistory
+42,3.7.1,872417396,2025-03-04,634159523,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Sonoma
 43,4.0,875889029,2026-01-28,634159523,API validated via amp-api-edge.apps.apple.com versionHistory

@@ -121,7 +121,7 @@ Release Order (oldest→newest),Pixelmator Pro Version,App External ID,Release D
 120,,859507423,,1289583905,Seed App External ID list provided by user (version unknown)
 121,,859891188,,1289583905,Seed App External ID list provided by user (version unknown)
 122,,860092190,,1289583905,Seed App External ID list provided by user (version unknown)
-123,,860510456,,1289583905,Seed App External ID list provided by user (version unknown)
+123,,860510456,,1289583905,Seed App External ID list provided by user (version unknown) | Last compatible version for macOS Big Sur
 124,,861635949,,1289583905,Seed App External ID list provided by user (version unknown)
 125,,862184652,,1289583905,Seed App External ID list provided by user (version unknown)
 126,,862325270,,1289583905,Seed App External ID list provided by user (version unknown)
@@ -156,4 +156,4 @@ Release Order (oldest→newest),Pixelmator Pro Version,App External ID,Release D
 155,3.6.17,873002230,2025-03-08,1289583905,API validated via amp-api-edge.apps.apple.com versionHistory
 156,3.6.18,874103172,2025-05-05,1289583905,API validated via amp-api-edge.apps.apple.com versionHistory
 157,3.7,874921690,2025-06-30,1289583905,API validated via amp-api-edge.apps.apple.com versionHistory
-158,3.7.1,877479917,2025-11-03,1289583905,API validated via amp-api-edge.apps.apple.com versionHistory
+158,3.7.1,877479917,2025-11-03,1289583905,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Ventura | Last compatible version for macOS Sonoma

@@ -26,7 +26,7 @@ Once you've identified the App External ID for the version you want, you can use
 
 If you're on an older version of macOS, use the tables below to find the last version of each Pro App compatible with your OS, along with the App Item ID and App External ID needed to install it.
 
-> Note: Data for Big Sur, Ventura, and Sonoma is not yet included. Contributions welcome!
+> Note: Tables cover High Sierra through Sonoma.
 
 ### High Sierra (10.13)
 | App | Version | App Item ID | App External ID |
@@ -72,6 +72,22 @@ If you're on an older version of macOS, use the tables below to find the last ve
 | Pages | 11.1 | 409201541 | 842170573 |
 | Xcode | 12.4 | 497799835 | 839994694 |
 
+### Big Sur (11)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 10.6.5 | 424389933 | 852332983 |
+| Compressor | 4.6.3 | 424390742 | 852333341 |
+| Motion | 5.6.3 | 434290957 | 852333300 |
+| Logic Pro | 10.7.4 | 634148309 | 848436302 |
+| MainStage | 3.6.1 | 634159523 | 847783103 |
+| GarageBand | 10.4.6 | 682658836 | 845961416 |
+| iMovie | 10.3.5 | 408981434 | 852712455 |
+| Keynote | 12.1 | 409183694 | 849061515 |
+| Numbers | 12.1 | 409203825 | 849061552 |
+| Pages | 12.1 | 409201541 | 849061576 |
+| Xcode | 13.2.1 | 497799835 | 845961054 |
+| Pixelmator Pro | 3.4.3 | 1289583905 | 860510456 |
+
 ### Monterey (12)
 | App | Version | App Item ID | App External ID |
 |-----|---------|:-----------:|:---------------:|
@@ -86,6 +102,38 @@ If you're on an older version of macOS, use the tables below to find the last ve
 | Numbers | 13.1 | 409203825 | 857401959 |
 | Pages | 13.1 | 409201541 | 857401961 |
 | Xcode | 14.2 | 497799835 | 853602198 |
+
+### Ventura (13)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 10.8.1 | 424389933 | 867747287 |
+| Compressor | 4.8 | 424390742 | 861999753 |
+| Motion | 5.8 | 434290957 | 861999886 |
+| Logic Pro | 11.0.1 | 634148309 | 865964375 |
+| MainStage | 3.6.6 | 634159523 | 861312988 |
+| GarageBand | 10.4.11 | 682658836 | 862757097 |
+| iMovie | 10.4.2 | 408981434 | 867747307 |
+| Keynote | 14.1 | 409183694 | 866313349 |
+| Numbers | 14.1 | 409203825 | 866313351 |
+| Pages | 14.1 | 409201541 | 866313353 |
+| Xcode | 15.2 | 497799835 | 862131722 |
+| Pixelmator Pro | 3.7.1 | 1289583905 | 877479917 |
+
+### Sonoma (14)
+| App | Version | App Item ID | App External ID |
+|-----|---------|:-----------:|:---------------:|
+| Final Cut Pro | 11.1.1 | 424389933 | 874753139 |
+| Compressor | 4.10.1 | 424390742 | 874753582 |
+| Motion | 5.10 | 434290957 | 873376651 |
+| Logic Pro | 11.2.2 | 634148309 | 876200097 |
+| MainStage | 3.7.1 | 634159523 | 872417396 |
+| GarageBand | 10.4.13 | 682658836 | 877196065 |
+| iMovie | 10.4.3 | 408981434 | 869656972 |
+| Keynote | 14.5 | 409183694 | 879499935 |
+| Numbers | 14.5 | 409203825 | 879499943 |
+| Pages | 14.5 | 409201541 | 879499951 |
+| Xcode | 16.2 | 497799835 | 870964517 |
+| Pixelmator Pro | 3.7.1 | 1289583905 | 877479917 |
 
 # How to Contribute an App External ID
 This project maps macOS App Store app versions to their corresponding **App External ID**. The easiest way to contribute is to share any App External IDs that are missing from the repo.
