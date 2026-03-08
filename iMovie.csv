@@ -77,5 +77,5 @@ Release Order (oldest→newest),iMovie Version,App External ID,Release Date,App 
 76,,865051576,,408981434,Seed App External ID list provided by user (version unknown)
 77,10.4.2,867747307,2024-08-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Ventura
 78,10.4.3,868934249,2024-11-13,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
-79,,869656972,,408981434,Seed App External ID list provided by user (version unknown) | Last compatible version for macOS Sonoma
+79,10.4.3,869656972,,408981434,User provided | Last compatible version for macOS Sonoma
 80,10.4.4,879349942,2026-01-28,408981434,API validated via amp-api-edge.apps.apple.com versionHistory
