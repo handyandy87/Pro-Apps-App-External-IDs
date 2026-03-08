@@ -26,7 +26,7 @@ Once you've identified the App External ID for the version you want, you can use
 
 If you're on an older version of macOS, use the tables below to find the last version of each Pro App compatible with your OS, along with the App Item ID and App External ID needed to install it.
 
-> Note: Tables now cover High Sierra through Sonoma. Sequoia and later are not yet included — contributions welcome!
+> Note: Tables cover High Sierra through Sonoma.
 
 ### High Sierra (10.13)
 | App | Version | App Item ID | App External ID |
