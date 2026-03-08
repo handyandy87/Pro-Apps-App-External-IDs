@@ -39,14 +39,14 @@ Release Order (oldest→newest),Numbers Version,App External ID,Release Date,App
 38,,829899011,,409203825,Seed App External ID provided by API
 39,,829950777,,409203825,Seed App External ID provided by API
 40,,830587909,,409203825,Seed App External ID provided by API
-41,6.1,830786366,,409203825,User provided (v6.1 confirmed on High Sierra system)
+41,6.1,830786366,,409203825,User provided (v6.1 confirmed on High Sierra system) | Last compatible version for macOS High Sierra
 42,,831824289,,409203825,Seed App External ID provided by API
 43,,832744490,,409203825,Seed App External ID provided by API
 44,,832990894,,409203825,Seed App External ID provided by API
 45,,833618421,,409203825,Seed App External ID provided by API
 46,,834520396,,409203825,Seed App External ID provided by API
 47,,835353996,,409203825,Seed App External ID provided by API
-48,10.1,836428231,,409203825,User provided (v10.1 confirmed on Mojave system)
+48,10.1,836428231,,409203825,User provided (v10.1 confirmed on Mojave system) | Last compatible version for macOS Mojave
 49,,836782221,,409203825,Seed App External ID provided by API
 50,,837516310,,409203825,Seed App External ID provided by API
 51,,837910048,,409203825,Seed App External ID provided by API
@@ -58,14 +58,14 @@ Release Order (oldest→newest),Numbers Version,App External ID,Release Date,App
 57,,840522655,,409203825,Seed App External ID provided by API
 58,,840877050,,409203825,Seed App External ID provided by API
 59,,841030093,,409203825,Seed App External ID provided by API
-60,11.1,842170571,,409203825,Crash log excerpt includes App Item ID & External ID: https://discussions.apple.com/thread/252854166
+60,11.1,842170571,,409203825,Crash log excerpt includes App Item ID & External ID: https://discussions.apple.com/thread/252854166 | Last compatible version for macOS Catalina
 61,,842469685,,409203825,Seed App External ID provided by API
 62,11.2,843867903,,409203825,Crash log excerpt includes App Item ID & External ID: https://www.reddit.com/r/MacOS/comments/te4f41/numbers_crashing_on_m1_monterey/
 63,,844362708,,409203825,Seed App External ID provided by API
 64,,847847051,,409203825,Seed App External ID provided by API
 65,,848231398,,409203825,Seed App External ID provided by API
 66,,848353038,,409203825,Seed App External ID provided by API
-67,,849061552,,409203825,Seed App External ID provided by API
+67,,849061552,,409203825,Seed App External ID provided by API | Last compatible version for macOS Big Sur
 68,,850349420,,409203825,Seed App External ID provided by API
 69,,851431201,,409203825,Seed App External ID provided by API
 70,,852260135,,409203825,Seed App External ID provided by API
@@ -76,7 +76,7 @@ Release Order (oldest→newest),Numbers Version,App External ID,Release Date,App
 75,,856200339,,409203825,Seed App External ID provided by API
 76,,856356571,,409203825,Seed App External ID provided by API
 77,,857328836,,409203825,Seed App External ID provided by API
-78,13.1,857401959,,409203825,User provided (v13.1 confirmed on Monterey system)
+78,13.1,857401959,,409203825,User provided (v13.1 confirmed on Monterey system) | Last compatible version for macOS Monterey
 79,,857811561,,409203825,Seed App External ID provided by API
 80,,859716073,,409203825,Seed App External ID provided by API
 81,,860196730,,409203825,Seed App External ID provided by API
@@ -88,10 +88,11 @@ Release Order (oldest→newest),Numbers Version,App External ID,Release Date,App
 87,,864989099,,409203825,Seed App External ID provided by API
 88,,865139060,,409203825,Seed App External ID provided by API
 89,,865813892,,409203825,Seed App External ID provided by API
-90,,866313351,,409203825,Seed App External ID provided by API
+90,,866313351,,409203825,Seed App External ID provided by API | Last compatible version for macOS Ventura
 91,,866884076,,409203825,Seed App External ID provided by API
 92,,869101987,,409203825,Seed App External ID provided by API
 93,,869633785,,409203825,Seed App External ID provided by API
 94,,871103748,,409203825,Seed App External ID provided by API
 95,,872219336,,409203825,Seed App External ID provided by API
 96,,873302189,,409203825,Seed App External ID provided by API
+97,14.5,879499943,,409203825,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Sonoma

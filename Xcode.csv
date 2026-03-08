@@ -1,28 +1,30 @@
 Release Order (oldest→newest),Xcode Version,App External ID,Release Date,App Item ID,Notes / Source
-1,11.3.1,833988030,,497799835,User provided (v11.3.1 confirmed on Mojave system)
-2,12.4,839994694,,497799835,User provided (v12.4 confirmed on Catalina system)
-3,13.4,848785080,2022-05-16,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-4,13.4.1,849405240,2022-06-02,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-5,14.0,850827724,2022-09-12,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-6,14.0.1,852237866,2022-09-26,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-7,14.1,852514974,2022-11-01,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-8,14.2,853602198,2022-12-13,497799835,API validated via amp-api-edge.apps.apple.com versionHistory; also user confirmed on Monterey system
-9,14.3,855012568,2023-03-30,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-10,14.3.1,856171230,2023-06-01,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-11,15.0,857996287,2023-09-18,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-12,15.0.1,860559424,2023-10-18,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-13,15.1,861831744,2023-12-11,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-14,15.2,862131722,2024-01-08,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-15,15.3,863816151,2024-03-05,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-16,15.4,864734518,2024-05-13,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-17,16.0,867921766,2024-09-16,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-18,16.1,869469369,2024-10-28,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-19,16.2,870379074,2024-12-11,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-20,16.3,871757222,2025-03-31,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-21,16.4,874564125,2025-05-28,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-22,26.0,876581611,2025-09-15,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-23,26.0.1,878209332,2025-09-22,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-24,26.1,878902003,2025-11-03,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-25,26.1.1,879596603,2025-11-11,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-26,26.2,879719222,2025-12-12,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
-27,26.3,881938591,2026-02-26,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+1,11.3.1,833988030,,497799835,User provided (v11.3.1 confirmed on Mojave system) | Last compatible version for macOS Mojave
+2,12.4,839994694,,497799835,User provided (v12.4 confirmed on Catalina system) | Last compatible version for macOS Catalina
+3,13.2.1,845961054,,497799835,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Big Sur
+4,13.4,848785080,2022-05-16,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+5,13.4.1,849405240,2022-06-02,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+6,14.0,850827724,2022-09-12,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+7,14.0.1,852237866,2022-09-26,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+8,14.1,852514974,2022-11-01,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+9,14.2,853602198,2022-12-13,497799835,API validated via amp-api-edge.apps.apple.com versionHistory; also user confirmed on Monterey system | Last compatible version for macOS Monterey
+10,14.3,855012568,2023-03-30,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+11,14.3.1,856171230,2023-06-01,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+12,15.0,857996287,2023-09-18,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+13,15.0.1,860559424,2023-10-18,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+14,15.1,861831744,2023-12-11,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+15,15.2,862131722,2024-01-08,497799835,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Ventura
+16,15.3,863816151,2024-03-05,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+17,15.4,864734518,2024-05-13,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+18,16.0,867921766,2024-09-16,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+19,16.1,869469369,2024-10-28,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+20,16.2,870379074,2024-12-11,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+21,16.2,870964517,,497799835,API validated via amp-api-edge.apps.apple.com versionHistory | Last compatible version for macOS Sonoma
+22,16.3,871757222,2025-03-31,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+23,16.4,874564125,2025-05-28,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+24,26.0,876581611,2025-09-15,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+25,26.0.1,878209332,2025-09-22,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+26,26.1,878902003,2025-11-03,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+27,26.1.1,879596603,2025-11-11,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+28,26.2,879719222,2025-12-12,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
+29,26.3,881938591,2026-02-26,497799835,API validated via amp-api-edge.apps.apple.com versionHistory
